@@ -1,6 +1,4 @@
-from flask import Flask, request, render_template, session, redirect
-import numpy as np
-import pandas as pd
+from flask import Flask, render_template
 import data
 
 
@@ -10,7 +8,7 @@ app = Flask(__name__)
 @app.route('/', methods=("POST", "GET"))
 def html_table():
 
-    return render_template('table.html',  tables=[data.stat.to_html(classes='data')], titles=data.stat.columns.values)
+    return render_template('table.html', tables=[data.stat.to_html(classes='data')], titles=data.stat.columns.values)
 
 
 
