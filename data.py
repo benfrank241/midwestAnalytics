@@ -1,9 +1,10 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import ssl
-import re
+from sqlalchemy import create_engine
 # Import data manipulation modules
 import pandas as pd
+import pymysql
 import numpy as np
 # Import data visualization modules
 import matplotlib as mpl
@@ -73,7 +74,6 @@ for i in range(257, len(lines)):
         if "Z. Kennedy" in lines[i]:
             continue
         if "La Rosa" in lines[i]:
-            print("THIS WAS  REACHERD")
             lines[i] = lines[i].replace("De La Rosa", "DeLaRosa")
         if len(lines[i]) > 15 and '<hr>' not in lines[i]:
             # print(lines[i])
@@ -129,17 +129,31 @@ for i in range(len(d_stats)):
             d_stats[i][1] = d_stats[i][1].replace('.','')
 
 
-
-
-
-#Todo: clean repeated code into fuctions
-
-
-# print(len(column_names))
 #Create DataFrame from our scraped data
-stat = pd.DataFrame(d_stats, columns=d_column_names)
-# print(stat.head())
+tableName = "BaseballOffensiveStats"
+oDataFrame = pd.DataFrame(o_stats, columns=o_column_names)
 
-# print(stat.columns)
+sqlEngine = create_engine('mysql+pymysql://root:root2023@localhost:3306/testdatabase')
 
+dbConnection = sqlEngine.connect()
+
+try:
+
+    frame = oDataFrame.to_sql(tableName, dbConnection, if_exists='fail');
+
+except ValueError as vx:
+
+    print(vx)
+
+except Exception as ex:
+
+    print(ex)
+
+else:
+
+    print("Table %s created successfully." % tableName);
+
+finally:
+
+    dbConnection.close()
 
