@@ -4,6 +4,7 @@
 from sqlalchemy import create_engine
 import pymysql
 import pandas as pd
+import math
 
 
 sqlEngine = create_engine('mysql+pymysql://root:root2023@localhost:3306/testdatabase')
@@ -14,7 +15,7 @@ frame = pd.read_sql("select * from baseball.offense", dbConnection);
 
 pd.set_option('display.expand_frame_repr', False)
 
-print(frame)
+# print(frame)
 
 dbConnection.close()
 
@@ -25,22 +26,35 @@ for i in cata:
     frame[i] = pd.to_numeric(frame[i])
 
 #Create SO%
-frame["SO%"] = (frame["SO"]) / (frame["AB"])
-#Single
-frame["1B"] = (frame["H"] - frame["2B"] - frame["3B"] - frame["HR"])
+frame["SO%"] = round((frame["SO"]) / (frame["AB"]), 3)
+#BB%
+frame["BB%"] = round((frame["BB"]) / (frame["AB"]), 3)
+#BB/K
+frame["BB/K"] = round((frame["BB"]) / (frame["SO"]), 3)
+#Single, inserting it in the proper place in the df
+frame["temp"] = (frame["H"] - frame["2B"] - frame["3B"] - frame["HR"])
+frame.insert(8, "1B", frame["temp"])
+del frame["temp"]
 #OPS
-frame["OPS"] = (frame["H"] + frame["BB"] + frame["HBP"]) / (frame["AB"] + frame["BB"] + frame["HBP"] + frame["SF"])
+frame["OPS"] = round(frame["OB%"] + frame["SLG%"], 3)
 #ISO
 frame["ISO"] = (frame["SLG%"]) - (frame["AVG"])
 #BABIP
-frame["BABIP"] = (frame["H"] - frame["HR"]) / (frame["AB"] - frame["HR"] - frame["SO"] + frame["SF"])
+frame["BABIP"] = round((frame["H"] - frame["HR"]) / (frame["AB"] - frame["HR"] - frame["SO"] + frame["SF"]), 3)
 #RC round this one to the ones digit
-frame["RC"] = (frame["TB"] * (frame["H"] + frame["BB"]) / (frame["AB"] + frame["BB"]))
+frame["RC"] = round((frame["TB"] * (frame["H"] + frame["BB"]) / (frame["AB"] + frame["BB"])), 0)
+
 #wOBA https://library.fangraphs.com/offense/woba/
-frame["wOBA"] = ((frame["BB"] * 0.69) + (frame["HBP"] * 0.722) + (frame["1B"] * 0.888) + (frame["2B"] * 1.271) + (frame["3B"] * 1.616) + (frame["HR"] * 2.101)) / (frame["AB"] + frame["BB"] + frame["SF"] + frame["HBP"])
+frame["wOBA"] = round(((frame["BB"] * 0.69) + (frame["HBP"] * 0.722) + (frame["1B"] * 0.888) + (frame["2B"] * 1.271) + (frame["3B"] * 1.616) + (frame["HR"] * 2.101)) / (frame["AB"] + frame["BB"] + frame["SF"] + frame["HBP"]), 3)
 
+opsAvg = frame["OPS"].mean()
+slgAvg = frame["SLG%"].mean()
+avgAvg = frame["AVG"].mean()
+#ops+
+frame["OPS+"] = round((100 * (frame["OPS"] / opsAvg) + (frame["SLG%"] / slgAvg) - 1), 0)
+#avg+
+frame["AVG+"] = round((100 * (frame["AVG"] / avgAvg) -1), 0)
 
-#TODO: insert 1B into the proper place, round and + stats
-#need to collect conference avg for avg+ slg+ etc
-print(frame.head())
+del frame["index"]
+# print(frame.head())
 
