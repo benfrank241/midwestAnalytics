@@ -24,12 +24,6 @@
 #Per Drive
 #Drive Success rate
 
-#Per 4th down attempt
-#Score Differnce
-#Time remaining
-#Yard line
-#Yards to go
-
 
 #PAT conversion (per team)
 patPC = {"GC" : 1.000, "CC" : 0.926, "RC" : 0.917, "BC" : 0.905, "MC" : 0.903, "LFC" : 0.898, "KC" : 0.880, "IC" : 0.857, "UoC" : 0.791, "LU" : 0.750, "MWC" : 0.882}
@@ -82,5 +76,18 @@ driveSuccess = {}
 for i in setsOfDowns:
     driveSuccess[i] = fDowns[i] / setsOfDowns[i]
 
-print(driveSuccess)
+
+# print(driveSuccess)
+
+
+#TODO: 4th down (what do I need to collect)
+#Per 4th down attempt
+#Score Difference?
+#Time remaining?
+#Yard line?
+#Yards to go.
+#Success.
+
+#i could be lazy and just grab 4th down%
+
 
