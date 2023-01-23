@@ -1,14 +1,14 @@
-from urllib.request import urlopen
-from bs4 import BeautifulSoup
-import ssl
-from sqlalchemy import create_engine
-# Import data manipulation modules
-import pandas as pd
-import pymysql
-import numpy as np
-# Import data visualization modules
-import matplotlib as mpl
-import matplotlib.pyplot as plt
+# from urllib.request import urlopen
+# from bs4 import BeautifulSoup
+# import ssl
+# from sqlalchemy import create_engine
+# # Import data manipulation modules
+# import pandas as pd
+# import pymysql
+# import numpy as np
+# # Import data visualization modules
+# import matplotlib as mpl
+# import matplotlib.pyplot as plt
 
 
 #Data to collect
@@ -37,15 +37,6 @@ patPC = {"GC" : 1.000, "CC" : 0.926, "RC" : 0.917, "BC" : 0.905, "MC" : 0.903, "
 pNet = {"GC" : 27.7, "CC" : 29.7, "RC" : 28.4, "BC" : 24.1, "MC" : 29.3, "LFC" : 32.1, "KC" : 30.3, "IC" : 29.5, "UoC" : 31.0, "LU" : 28.3, "MWC" : 29.0}
 
 
-#pseduocode to find drive success rate
-#collecting number of 
-#read play by play section line-by-line
-#if it doesnt start with a number > continue
-#find out who has the ball
-#1st first down is marked
-#Find "1ST DOWN" or "TOUCHDOWN" or "NO GOOD"
-#
-
 #Drive success rate =https://www.footballperspective.com/how-to-calculate-drive-success-rate/#:~:text=So%20to%20calculate%20the%20number%20of%20drives%2C%20you%20can%20either,%2Ffield%20goal%20attempts%2Ftouchdowns.
 #First downs / Number of drives that dont end the game
 #Sets of downs = Drives + First downs - TDs
@@ -72,3 +63,24 @@ pNet = {"GC" : 27.7, "CC" : 29.7, "RC" : 28.4, "BC" : 24.1, "MC" : 29.3, "LFC" :
 #14:8 8:12 2:9 18:8 11:13 22:11 15:12 6:13 TOT: 96:86
 #COR
 #19:8 16:9 19:13 12:9 20:6 15:11 15:11 23:7 TOT: 139:74
+
+fDowns = {"GC" : 96, "CC" : 139, "RC" : 176, "BC" : 83, "MC" : 159, "LFC" : 158, "KC" : 128, "IC" : 112, "UoC" : 192, "LU" : 60, "MWC" : 130}
+
+nDrives = {"GC" : 86, "CC" : 74, "RC" : 114, "BC" : 88, "MC" : 105, "LFC" : 97, "KC" : 83, "IC" : 104, "UoC" : 103, "LU" : 91, "MWC" : 95}
+
+nTD = {"GC" : 11, "CC" : 28, "RC" : 49, "BC" : 21, "MC" : 57, "LFC" : 44, "KC" : 24, "IC" : 33, "UoC" : 45, "LU" : 9, "MWC" : 32}
+
+setsOfDowns = {}
+#Sets of downs = Drives + First downs - TDs
+for i in fDowns:
+    setsOfDowns[i] = (nDrives[i] + fDowns[i] - nTD[i])
+
+# print(setsOfDowns)
+
+#Drive Success rate = first downs / setsofdowns
+driveSuccess = {}
+for i in setsOfDowns:
+    driveSuccess[i] = fDowns[i] / setsOfDowns[i]
+
+print(driveSuccess)
+
