@@ -90,4 +90,54 @@ for i in setsOfDowns:
 
 #i could be lazy and just grab 4th down%
 
+import re
+import box
 
+
+def collect_fourth_down_data():
+    current_team = ""
+    teams_fourth_down_data = {}
+
+    with open('box.txt', 'r') as f:
+        fourth_down_pattern = re.compile(r'(4th and \d+)')
+        team_start_drive_pattern = re.compile(r'([A-Z][a-z]+ [A-Z][a-z]+).* drive start')
+        for line in f:
+            match = fourth_down_pattern.search(line)
+            team_drive_start = team_start_drive_pattern.search(line)
+            if match:
+                distance = match.group(1)
+                if current_team not in teams_fourth_down_data:
+                    teams_fourth_down_data[current_team] = {"attempted": 0, "converted": 0, "distances": []}
+                teams_fourth_down_data[current_team]["attempted"] += 1
+                teams_fourth_down_data[current_team]["distances"].append(distance)
+                if "converted" in line:
+                    teams_fourth_down_data[current_team]["converted"] += 1
+                elif team_drive_start:
+                    current_team = team_drive_start.group(1)
+    return teams_fourth_down_data
+
+
+import re
+
+
+def collect_fourth_down_data2(box_score):
+    # Initialize variables to store the data
+    fourth_downs_attempted = 0
+    fourth_downs_converted = 0
+    fourth_downs_distance = []
+
+    # Use regular expressions to search for the relevant information in the box score
+    fourth_down_pattern = re.compile(r'(4th and \d+)')
+    for line in box_score.split('\n'):
+        match = fourth_down_pattern.search(line)
+        if match:
+            fourth_downs_attempted += 1
+            distance = match.group(1)
+            fourth_downs_distance.append(distance)
+            if "converted" in line:
+                fourth_downs_converted += 1
+
+    return (fourth_downs_attempted, fourth_downs_converted, fourth_downs_distance)
+
+
+print (collect_fourth_down_data())
