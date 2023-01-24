@@ -119,25 +119,69 @@ for i in setsOfDowns:
 
 import re
 
-#broken  code
+teams = ["Cornell", "Beloit", "Illinois", "UChicago", "Monmouth (IL)", "Grinell"]
+fourth_data = []
+
+
 def collect_fourth_down_data():
-    # Initialize variables to store the data
-    fourth_downs_attempted = 0
-    fourth_downs_converted = 0
-    fourth_downs_distance = []
+    
+    current_team = ""
     with open('box.txt', 'r') as f:
         # Use regular expressions to search for the relevant information in the box score
         fourth_down_pattern = re.compile(r'(4th and \d+)')
         for line in f:
+
+            line = line.split(" ") #split 
+
+            if len(line) <= 6 and "at" in line:
+                if line[0] in teams:
+                    current_team = line[0]
+                    # print(current_team)
+            line = " ".join(line)
             match = fourth_down_pattern.search(line)
             if match:
-                fourth_downs_attempted += 1
-                distance = match.group(1)
-                fourth_downs_distance.append(distance)
-                if "converted" in line or "1ST DOWN" in line:
-                    fourth_downs_converted += 1
+                result = "unknown"
+                line = line.split(" ")
+                down = " ".join(line[0:3])
+                distance = line[4]
+                if "PENALTY" in line:
+                    continue
+                if "punt" in line:
+                    result = "Punt"
+                if "field" in line:
+                    if "NO" in line:
+                        result = "Field Goal NO GOOD"
+                    else:
+                        result = "Field Goal GOOD"
+                
+                if "incomplete" in line:
+                    result = "Failed"
+                if "TOUCHDOWN," in line:
+                    result = "TD"
+                if "1ST" in line:
+                    result = "SUCCESS"
+                if "End" in line:
+                    continue
+                if "Start" in line:
+                    continue
+                if "Timeout" in line:
+                    continue
+                if "ball" in line:
+                    result = "Failed"
+                if "loss" in line:
+                    result = "Failed"
 
-        return (fourth_downs_attempted, fourth_downs_converted, fourth_downs_distance)
+                if result == "unknown":
+                    print(" ".join(line))
+                    raise Exception("UKNOWN RESULT")
 
 
-print (collect_fourth_down_data())
+                fourth_data.append([current_team + " " + down + " " + distance + " " + result])
+                
+
+        
+
+collect_fourth_down_data()
+# print(fourth_data)
+for i in fourth_data:
+    print(i)

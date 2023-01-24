@@ -1,6 +1,4 @@
 #this file is able to read from the MySQL database
-
-
 from sqlalchemy import create_engine
 import pymysql
 import pandas as pd
@@ -57,4 +55,7 @@ frame["AVG+"] = round((100 * (frame["AVG"] / avgAvg) -1), 0)
 
 del frame["index"]
 # print(frame.head())
+
+#WAR = (Batting Runs + Base Running Runs + Fielding Runs + Positional Adjustment + League Adjustment +Replacement Runs) / (Runs Per Win)
+#https://library.fangraphs.com/war/war-position-players/
 

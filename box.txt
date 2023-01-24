@@ -1,219 +1,565 @@
-1st and 10 at COR45 Cornell College drive start at 14:43.
-1st and 10 at COR45 Lacy,Joel rush for 2 yards gain to the Cornel47 (Flores,Ethan).
-2nd and 8 at COR47 Abesames-Hammer,Daniel rush middle for 13 yards gain to the Beloit40, out of bounds at Beloit40, 1ST DOWN.
-1st and 10 at BEL40 Abesames-Hammer,Daniel rush middle for 7 yards gain to the Beloit33 (Beloit).
-2nd and 3 at BEL33 Abesames-Hammer,Daniel rush middle for 3 yards gain to the Beloit30 (Flores,Ethan), out of bounds, 1ST
-DOWN.
-1st and 10 at BEL30 Abesames-Hammer,Daniel rush right for 4 yards gain to the Beloit26 (Croft Jr.,Christopher).
-2nd and 6 at BEL26 Abesames-Hammer,Daniel rush for 0 yards to the Beloit26 (Croft Jr.,Christopher; Ambrister,Dae'Quan).
-3rd and 6 at BEL26 Smith,John rush middle for 3 yards gain to the Beloit23 (Schane,Quentin).
-4th and 3 at BEL23 Gomez,Tony rush middle for 3 yards gain to the Beloit20 (Bush,Devin), 1ST DOWN.
-1st and 10 at BEL20 Gomez,Tony rush middle for 0 yards to the Beloit20 (Ambrister,Dae'Quan).
-2nd and 10 at BEL20 Gomez,Tony rush for 0 yards to the Beloit20 (Ambrister,Dae'Quan).
-3rd and 10 at BEL20 Spencer,Isaiah rush left for 7 yards gain to the Beloit13 (Croft Jr.,Christopher).
-4th and 3 at BEL13 Lacy,Joel rush middle for 3 yards gain to the Beloit10 (Douglas,Mitch), 1ST DOWN.
-1st and 10 at BEL10 Spencer,Isaiah rush for 4 yards gain to the Beloit06 (Flores,Ethan).
-2nd and 6 at BEL6 Gomez,Tony rush for 0 yards to the Beloit06 (Croft Jr.,Christopher).
-3rd and 6 at BEL6 Lacy,Joel rush middle for 2 yards gain to the Beloit04 (Douglas,Mitch).
-4th and 4 at BEL4 Smith,John pass complete short left to Lacy,Joel for 4 yards to the Beloit00 TOUCHDOWN, clock 07:44, 1ST
-DOWN.
-1st and 10 at BEL3 Mitchell,Adam kick attempt good (H: Cox,Matthew, LS: Adams,Sam).
-1st and 10 at COR35 Mitchell,Adam kickoff 42 yards to the Beloit23 Thorpe,Gavin return 0 yards to the Beloit23 (Horne,Thomas).
-Cornell College 7-0 Beloit
-Beloit at 07:35
-1st and 10 at BEL23 Beloit drive start at 07:35.
-1st and 10 at BEL23 Shotgun Marquez,Drake rush left for 16 yards gain to the Beloit39 (Holt,Hunter), 1ST DOWN.
-1st and 10 at BEL39 Shotgun Shafer,Jacob pass complete deep middle to Larrabee,Cooper for 30 yards to the Cornel31
-(Hoffman,Anthony), 1ST DOWN.
-1st and 10 at COR31 Shotgun Shafer,Jacob pass incomplete short left.
-2nd and 10 at COR31 Shotgun Marquez,Drake rush left for 2 yards gain to the Cornel29 (Lockington,Landon; Perez,Savian).
-3rd and 8 at COR29 No Huddle-Shotgun Shafer,Jacob pass incomplete short middle QB hurried by Sells,Nicholas.
-4th and 8 at COR29 No Huddle-Shotgun Shafer,Jacob pass incomplete short to Sanon,Jeto-Rivar.
-Cornell College at 05:40
-1st and 10 at COR29 Cornell College drive start at 05:40.
-1st and 10 at COR29 Lacy,Joel rush for 7 yards gain to the Cornel36 (Flores,Ethan).
-2nd and 3 at COR36 Spencer,Isaiah rush middle for 5 yards gain to the Cornel41 (Croft Jr.,Christopher; Bernadel,Lens), 1ST DOWN.
-1st and 10 at COR41 Spencer,Isaiah rush right for 6 yards gain to the Cornel47 (Beloit).
-2nd and 4 at COR47 Spencer,Isaiah rush left for 10 yards gain to the Beloit43 (Nelson,Chase), 1ST DOWN.
-1st and 10 at BEL43 Lacy,Joel rush right for 2 yards gain to the Beloit41 (Croft Jr.,Christopher).
-2nd and 8 at BEL41 Smith,John rush for 6 yards gain to the Beloit35 (Dewar,Raymond).
-3rd and 2 at BEL35 Gomez,Tony rush right for 5 yards gain to the Beloit30 (Croft Jr.,Christopher; Flores,Ethan), 1ST DOWN.
-1st and 10 at BEL30 Spencer,Isaiah rush for 16 yards gain to the Beloit14 (Davis,EK), 1ST DOWN.
-1st and 10 at BEL14 Lacy,Joel rush right for 0 yards (-15) to the Beloit14 (Croft Jr.,Christopher; Bernadel,Lens) PENALTY Cornel
-Illegal Block in Back 10 yards from Beloit14 to Beloit24.
-1st and 20 at BEL24 Gomez,Tony rush for 3 yards loss to the Beloit27 (Kelley,Ray).
-Cornell College 7-0 Beloit
+UChicago at 14:56
+1st and 10 at UCH25 UChicago drive start at 14:56.
+1st and 10 at UCH25 No Huddle-Shotgun Gow,Wesley pass complete short middle to Solis,Diego for 5 yards to the UC30
+(Watkins,Larvell).
+2nd and 5 at UCH30 No Huddle-Shotgun D'Ambrose,Nick rush right for 20 yards gain to the UC50 (Kattenbraker,Ryan), out of
+bounds, 1ST DOWN.
+1st and 10 at ILL50 No Huddle-Shotgun D'Ambrose,Nick rush middle for 2 yards gain to the IC48 (Jones,Cameron; Gognat,Drew).
+2nd and 8 at ILL48 No Huddle-Shotgun Gow,Wesley pass incomplete short right to Degner,Luke.
+3rd and 8 at ILL48 No Huddle-Shotgun Gow,Wesley sacked for loss of 2 yards to the IC50 (Bearden,Garrett).
+4th and 10 at UCH50 Bhuta,Noah punt 25 yards to the IC25, out of bounds at IC25.
+UChicago at 14:56
+1st and 10 at UCH25 UChicago drive start at 14:56.
+1st and 10 at UCH25 No Huddle-Shotgun Gow,Wesley pass complete short middle to Solis,Diego for 5 yards to the UC30
+(Watkins,Larvell).
+2nd and 5 at UCH30 No Huddle-Shotgun D'Ambrose,Nick rush right for 20 yards gain to the UC50 (Kattenbraker,Ryan), out of
+bounds, 1ST DOWN.
+1st and 10 at ILL50 No Huddle-Shotgun D'Ambrose,Nick rush middle for 2 yards gain to the IC48 (Jones,Cameron; Gognat,Drew).
+2nd and 8 at ILL48 No Huddle-Shotgun Gow,Wesley pass incomplete short right to Degner,Luke.
+3rd and 8 at ILL48 No Huddle-Shotgun Gow,Wesley sacked for loss of 2 yards to the IC50 (Bearden,Garrett).
+4th and 10 at UCH50 Bhuta,Noah punt 25 yards to the IC25, out of bounds at IC25.
+Illinois Col. at 12:11
+1st and 10 at ILL25 Illinois Col. drive start at 12:11.
+1st and 10 at ILL25 Shotgun Smalls,Trevor rush left for 1 yard loss to the IC24 (Cappellino,Aidan).
+2nd and 11 at ILL24 Shotgun Smalls,Trevor rush middle for 3 yards gain to the IC27 (Heine,Jason).
+3rd and 8 at ILL27 No Huddle-Shotgun Hanauer,Jack pass complete deep left to Campbell,William for 16 yards to the IC43
+(Junker,Braedon), 1ST DOWN.
+1st and 10 at ILL43 No Huddle-Shotgun Smalls,Trevor rush middle for 0 yards to the IC43 (Hassibi,Kourosh).
+2nd and 10 at ILL43 No Huddle-Shotgun Smalls,Trevor rush middle for 3 yards gain to the IC46 (Platford,Banks).
+3rd and 7 at ILL46 No Huddle-Shotgun Hanauer,Jack pass incomplete short left to Campbell,William.
+4th and 7 at ILL46 Banovz,Zack punt 42 yards to the UC12, out of bounds at UC12.
+Illinois Col. at 12:11
+1st and 10 at ILL25 Illinois Col. drive start at 12:11.
+1st and 10 at ILL25 Shotgun Smalls,Trevor rush left for 1 yard loss to the IC24 (Cappellino,Aidan).
+2nd and 11 at ILL24 Shotgun Smalls,Trevor rush middle for 3 yards gain to the IC27 (Heine,Jason).
+3rd and 8 at ILL27 No Huddle-Shotgun Hanauer,Jack pass complete deep left to Campbell,William for 16 yards to the IC43
+(Junker,Braedon), 1ST DOWN.
+1st and 10 at ILL43 No Huddle-Shotgun Smalls,Trevor rush middle for 0 yards to the IC43 (Hassibi,Kourosh).
+2nd and 10 at ILL43 No Huddle-Shotgun Smalls,Trevor rush middle for 3 yards gain to the IC46 (Platford,Banks).
+3rd and 7 at ILL46 No Huddle-Shotgun Hanauer,Jack pass incomplete short left to Campbell,William.
+4th and 7 at ILL46 Banovz,Zack punt 42 yards to the UC12, out of bounds at UC12.
+UChicago at 09:43
+1st and 10 at UCH12 UChicago drive start at 09:43.
+1st and 10 at UCH12 No Huddle-Shotgun Gow,Wesley pass complete short right to Nava,Aden for 8 yards to the UC20
+(Jones,Cameron).
+2nd and 2 at UCH20 No Huddle-Shotgun D'Ambrose,Nick rush middle for 57 yards gain to the IC23 (Gerdes,Trey), 1ST DOWN.
+1st and 10 at ILL23 No Huddle-Shotgun Gow,Wesley pass complete deep left to Degner,Luke for 23 yards to the IC00 TOUCHDOWN,
+clock 08:31, 1ST DOWN.
+1st and 10 at ILL3 Goodman,Will kick attempt failed ( blocked by Gerdes,Trey) (H: Janis,Michael, LS: Armstrong,Michael), out of
+bounds at IC02.
+1st and 10 at UCH35 Goodman,Will kickoff 65 yards to the IC00 Brunstein,Collin return 17 yards to the IC17 (Alanis,Marcelo).
+UChicago 6-0 Illinois Col.
+Illinois Col. at 08:23
+1st and 10 at ILL17 Illinois Col. drive start at 08:23.
+1st and 10 at ILL17 No Huddle-Shotgun Hanauer,Jack pass incomplete short left to Corley,KJ broken up by Junker,Braedon.
+2nd and 10 at ILL17 No Huddle-Shotgun Smalls,Trevor rush right for 3 yards gain to the IC20 (Cappellino,Aidan).
+3rd and 7 at ILL20 No Huddle-Shotgun Hanauer,Jack pass incomplete short right to Brunstein,Collin broken up by Junker,Braedon.
+4th and 7 at ILL20 Banovz,Zack punt 35 yards to the UC45, out of bounds at UC45.
+Illinois Col. at 08:23
+1st and 10 at ILL17 Illinois Col. drive start at 08:23.
+1st and 10 at ILL17 No Huddle-Shotgun Hanauer,Jack pass incomplete short left to Corley,KJ broken up by Junker,Braedon.
+2nd and 10 at ILL17 No Huddle-Shotgun Smalls,Trevor rush right for 3 yards gain to the IC20 (Cappellino,Aidan).
+3rd and 7 at ILL20 No Huddle-Shotgun Hanauer,Jack pass incomplete short right to Brunstein,Collin broken up by Junker,Braedon.
+4th and 7 at ILL20 Banovz,Zack punt 35 yards to the UC45, out of bounds at UC45.
+UChicago at 07:33
+1st and 10 at UCH45 UChicago drive start at 07:33.
+1st and 10 at UCH45 No Huddle-Shotgun Gow,Wesley pass complete deep right to Janis,Michael for 13 yards to the IC42
+(Kattenbraker,Ryan), 1ST DOWN.
+1st and 10 at ILL42 No Huddle-Shotgun James,Kyle rush middle for 3 yards gain to the IC39 (Kattenbraker,Ryan).
+2nd and 7 at ILL39 No Huddle-Shotgun Gow,Wesley pass complete short right to Smith,Colman for 5 yards to the IC34
+(Jones,Cameron), out of bounds.
+3rd and 2 at ILL34 No Huddle-Shotgun D'Ambrose,Nick rush middle for 10 yards gain to the IC24 (Kattenbraker,Ryan;
+Watkins,Larvell), 1ST DOWN.
+1st and 10 at ILL24 No Huddle-Shotgun Gow,Wesley rush middle for 0 yards to the IC24 (Gognat,Drew).
+2nd and 10 at ILL24 No Huddle-Shotgun D'Ambrose,Nick rush left for 1 yard loss to the IC25 (Bearden,Garrett; Patterson,Charlie).
+3rd and 11 at ILL25 No Huddle-Shotgun Gow,Wesley pass incomplete short middle to Degner,Luke broken up by Kattenbraker,Ryan
+PENALTY UC Holding declined.
+4th and 11 at ILL25 Goodman,Will field goal attempt from 42 yards NO GOOD (H: Janis,Michael, LS: Armstrong,Michael), clock
+04:05.
+UChicago at 07:33
+1st and 10 at UCH45 UChicago drive start at 07:33.
+1st and 10 at UCH45 No Huddle-Shotgun Gow,Wesley pass complete deep right to Janis,Michael for 13 yards to the IC42
+(Kattenbraker,Ryan), 1ST DOWN.
+1st and 10 at ILL42 No Huddle-Shotgun James,Kyle rush middle for 3 yards gain to the IC39 (Kattenbraker,Ryan).
+2nd and 7 at ILL39 No Huddle-Shotgun Gow,Wesley pass complete short right to Smith,Colman for 5 yards to the IC34
+(Jones,Cameron), out of bounds.
+3rd and 2 at ILL34 No Huddle-Shotgun D'Ambrose,Nick rush middle for 10 yards gain to the IC24 (Kattenbraker,Ryan;
+Watkins,Larvell), 1ST DOWN.
+1st and 10 at ILL24 No Huddle-Shotgun Gow,Wesley rush middle for 0 yards to the IC24 (Gognat,Drew).
+2nd and 10 at ILL24 No Huddle-Shotgun D'Ambrose,Nick rush left for 1 yard loss to the IC25 (Bearden,Garrett; Patterson,Charlie).
+3rd and 11 at ILL25 No Huddle-Shotgun Gow,Wesley pass incomplete short middle to Degner,Luke broken up by Kattenbraker,Ryan
+PENALTY UC Holding declined.
+4th and 11 at ILL25 Goodman,Will field goal attempt from 42 yards NO GOOD (H: Janis,Michael, LS: Armstrong,Michael), clock
+04:05.
+Illinois Col. at 04:05
+1st and 10 at ILL25 Illinois Col. drive start at 04:05.
+1st and 10 at ILL25 No Huddle-Shotgun Hanauer,Jack rush middle for 4 yards gain to the IC29 (Soska,Nikulas).
+2nd and 6 at ILL29 No Huddle-Shotgun Hanauer,Jack pass incomplete short left to Smalls,Trevor.
+3rd and 6 at ILL29 No Huddle-Shotgun Hanauer,Jack pass incomplete short right to Brunstein,Collin.
+4th and 6 at ILL29 Banovz,Zack punt 46 yards to the UC25 Janis,Michael return 5 yards to the UC30 (Moss,Brayton).
+Illinois Col. at 04:05
+1st and 10 at ILL25 Illinois Col. drive start at 04:05.
+1st and 10 at ILL25 No Huddle-Shotgun Hanauer,Jack rush middle for 4 yards gain to the IC29 (Soska,Nikulas).
+2nd and 6 at ILL29 No Huddle-Shotgun Hanauer,Jack pass incomplete short left to Smalls,Trevor.
+3rd and 6 at ILL29 No Huddle-Shotgun Hanauer,Jack pass incomplete short right to Brunstein,Collin.
+4th and 6 at ILL29 Banovz,Zack punt 46 yards to the UC25 Janis,Michael return 5 yards to the UC30 (Moss,Brayton).
+UChicago at 03:23
+1st and 10 at UCH30 UChicago drive start at 03:23.
+1st and 10 at UCH30 No Huddle-Shotgun D'Ambrose,Nick rush middle for 1 yard gain to the UC31 (Patterson,Charlie; Wolf,Stuart).
+2nd and 9 at UCH31 No Huddle-Shotgun Gow,Wesley rush middle for 6 yards gain to the UC37 (Patterson,Charlie).
+3rd and 3 at UCH37 No Huddle-Shotgun Gow,Wesley sacked for loss of 6 yards to the UC31 (Bearden,Garrett).
+4th and 9 at UCH31 Bhuta,Noah punt 36 yards to the IC33 Jones,Cameron return 2 yards to the IC35 (Kelly,Seamus).
+UChicago at 03:23
+1st and 10 at UCH30 UChicago drive start at 03:23.
+1st and 10 at UCH30 No Huddle-Shotgun D'Ambrose,Nick rush middle for 1 yard gain to the UC31 (Patterson,Charlie; Wolf,Stuart).
+2nd and 9 at UCH31 No Huddle-Shotgun Gow,Wesley rush middle for 6 yards gain to the UC37 (Patterson,Charlie).
+3rd and 3 at UCH37 No Huddle-Shotgun Gow,Wesley sacked for loss of 6 yards to the UC31 (Bearden,Garrett).
+4th and 9 at UCH31 Bhuta,Noah punt 36 yards to the IC33 Jones,Cameron return 2 yards to the IC35 (Kelly,Seamus).
+Illinois Col. at 01:22
+1st and 10 at ILL35 Illinois Col. drive start at 01:22.
+1st and 10 at ILL35 No Huddle-Shotgun Smalls,Trevor rush right for 3 yards gain to the IC38 (Long,Arthur).
+2nd and 7 at ILL38 Shotgun Smalls,Trevor rush left for 3 yards gain to the IC41 (Murphy,Chris; Cappellino,Aidan).
+UChicago 6-0 Illinois Col.
 Start of Quarter #2
-2nd and 23 at BEL27 Start of 2nd quarter, clock 15:00.
-2nd and 23 at BEL27 Smith,John sacked for loss of 0 yards to the Beloit27 (Kelley,Ray).
-3rd and 23 at BEL27 Smith,John pass complete deep right to Crawford,LaQuanta for 11 yards to the Beloit16, End Of Play.
-4th and 12 at BEL16 Mitchell,Adam field goal attempt from 33 yards NO GOOD (H: Cox,Matthew, LS: Adams,Sam), clock 13:41.
-Beloit at 13:41
-1st and 10 at BEL20 Beloit drive start at 13:41.
-1st and 10 at BEL20 No Huddle-Shotgun Shafer,Jacob pass complete short right to Larrabee,Cooper for 5 yards loss to the Beloit15
-(Adams,Sam) PENALTY Beloit Holding 10 yards from Beloit20 to Beloit10. NO PLAY.
-1st and 20 at BEL10 No Huddle-Shotgun Marquez,Drake rush for 5 yards gain to the Beloit15 (Canals,Nate).
-2nd and 15 at BEL15 No Huddle-Shotgun Marquez,Drake rush for 2 yards gain to the Beloit17 (Albritton,Nasir).
-3rd and 13 at BEL17 No Huddle-Shotgun Shafer,Jacob pass complete deep left to Larrabee,Cooper for 26 yards to the Beloit43
-(Hoffman,Anthony), 1ST DOWN.
-1st and 10 at BEL43 No Huddle-Shotgun Marquez,Drake rush left for 1 yard gain to the Beloit44 (Holt,Hunter).
-2nd and 9 at BEL44 No Huddle-Shotgun Shafer,Jacob pass incomplete short left to Hyppolite,Stanley.
-3rd and 9 at BEL44 No Huddle-Shotgun Marquez,Drake rush for 0 yards to the Beloit44 (Sells,Nicholas).
-4th and 9 at BEL44 PENALTY Beloit False Start 5 yards from Beloit44 to Beloit39.
-4th and 14 at BEL39 Casillas,Alonso punt 37 yards to the Cornel24 fair catch by Adams,Sam at Cornel24.
+3rd and 4 at ILL41 Start of 2nd quarter, clock 15:00.
+3rd and 4 at ILL41 PENALTY IC False Start (McPherson,Collier) 5 yards from IC41 to IC36. NO PLAY.
+3rd and 9 at ILL36 Shotgun Hanauer,Jack pass complete short left to Moscinski,Elijah for 2 yards loss to the IC34 (Murphy,Chris)
+PENALTY IC Illegal Touch-Pass (Schulhofer,Josh). NO PLAY.
+4th and 9 at ILL36 Banovz,Zack punt 44 yards to the UC20.
+Start of Quarter #2
+3rd and 4 at ILL41 Start of 2nd quarter, clock 15:00.
+3rd and 4 at ILL41 PENALTY IC False Start (McPherson,Collier) 5 yards from IC41 to IC36. NO PLAY.
+3rd and 9 at ILL36 Shotgun Hanauer,Jack pass complete short left to Moscinski,Elijah for 2 yards loss to the IC34 (Murphy,Chris)
+PENALTY IC Illegal Touch-Pass (Schulhofer,Josh). NO PLAY.
+4th and 9 at ILL36 Banovz,Zack punt 44 yards to the UC20.
+UChicago at 14:31
+1st and 10 at UCH20 UChicago drive start at 14:31.
+1st and 10 at UCH20 No Huddle-Shotgun Gow,Wesley rush left for 9 yards gain to the UC29 (Gerdes,Trey).
+2nd and 1 at UCH29 No Huddle-Shotgun D'Ambrose,Nick rush middle for 3 yards gain to the UC32 (Wolf,Stuart; Patterson,Charlie),
+1ST DOWN.
+1st and 10 at UCH32 No Huddle-Shotgun Gow,Wesley pass complete short right to Janis,Michael for 1 yard to the UC33
+(Patterson,Charlie).
+2nd and 9 at UCH33 No Huddle-Shotgun Gow,Wesley pass incomplete short middle to Nava,Aden broken up by Watkins,Larvell.
+3rd and 9 at UCH33 No Huddle-Shotgun Gow,Wesley pass incomplete short middle to Nava,Aden.
+4th and 9 at UCH33 Bhuta,Noah punt 27 yards to the IC40 fair catch by Jones,Cameron at IC40.
+UChicago at 14:31
+1st and 10 at UCH20 UChicago drive start at 14:31.
+1st and 10 at UCH20 No Huddle-Shotgun Gow,Wesley rush left for 9 yards gain to the UC29 (Gerdes,Trey).
+2nd and 1 at UCH29 No Huddle-Shotgun D'Ambrose,Nick rush middle for 3 yards gain to the UC32 (Wolf,Stuart; Patterson,Charlie),
+1ST DOWN.
+1st and 10 at UCH32 No Huddle-Shotgun Gow,Wesley pass complete short right to Janis,Michael for 1 yard to the UC33
+(Patterson,Charlie).
+2nd and 9 at UCH33 No Huddle-Shotgun Gow,Wesley pass incomplete short middle to Nava,Aden broken up by Watkins,Larvell.
+3rd and 9 at UCH33 No Huddle-Shotgun Gow,Wesley pass incomplete short middle to Nava,Aden.
+4th and 9 at UCH33 Bhuta,Noah punt 27 yards to the IC40 fair catch by Jones,Cameron at IC40.
+Illinois Col. at 12:30
+1st and 10 at ILL40 Illinois Col. drive start at 12:30.
+1st and 10 at ILL40 Shotgun Jones,Cameron rush left for 2 yards loss to the IC38 (Skowronski,Will).
+2nd and 12 at ILL38 No Huddle-Shotgun Smalls,Trevor rush middle for 2 yards gain to the IC40 (Skowronski,Will).
+3rd and 10 at ILL40 No Huddle-Shotgun Hanauer,Jack pass incomplete short right to Corley,KJ.
+4th and 10 at ILL40 Banovz,Zack punt 27 yards to the UC33 Janis,Michael return 3 yards to the UC36 (Stuart,Drake).
+Illinois Col. at 12:30
+1st and 10 at ILL40 Illinois Col. drive start at 12:30.
+1st and 10 at ILL40 Shotgun Jones,Cameron rush left for 2 yards loss to the IC38 (Skowronski,Will).
+2nd and 12 at ILL38 No Huddle-Shotgun Smalls,Trevor rush middle for 2 yards gain to the IC40 (Skowronski,Will).
+3rd and 10 at ILL40 No Huddle-Shotgun Hanauer,Jack pass incomplete short right to Corley,KJ.
+4th and 10 at ILL40 Banovz,Zack punt 27 yards to the UC33 Janis,Michael return 3 yards to the UC36 (Stuart,Drake).
+UChicago at 11:10
+1st and 10 at UCH36 UChicago drive start at 11:10.
+1st and 10 at UCH36 No Huddle-Shotgun Gow,Wesley pass incomplete short right to Nava,Aden.
+2nd and 10 at UCH36 No Huddle-Shotgun D'Ambrose,Nick rush middle for 9 yards gain to the UC45 (Durell,Trent).
+3rd and 1 at UCH45 No Huddle-Shotgun D'Ambrose,Nick rush middle for 0 yards to the UC45 (Kaesberg,Thomas).
+4th and 1 at UCH45 No Huddle-Shotgun D'Ambrose,Nick rush middle for 5 yards gain to the UC50 (Patterson,Charlie), 1ST DOWN.
+1st and 10 at UCH50 No Huddle-Shotgun Gow,Wesley pass complete short left to Nava,Aden for 5 yards to the IC45
+(Bearden,Garrett).
+2nd and 5 at ILL45 No Huddle-Shotgun Asare,Greg rush middle for 1 yard gain to the IC44 (Patterson,Charlie; Gognat,Drew).
+3rd and 4 at ILL44 No Huddle-Shotgun Gow,Wesley pass incomplete short middle to Asare,Greg PENALTY UC Holding declined.
+4th and 4 at ILL44 Bhuta,Noah punt 26 yards to the IC18 fair catch by Jones,Cameron at IC18.
+UChicago at 11:10
+1st and 10 at UCH36 UChicago drive start at 11:10.
+1st and 10 at UCH36 No Huddle-Shotgun Gow,Wesley pass incomplete short right to Nava,Aden.
+2nd and 10 at UCH36 No Huddle-Shotgun D'Ambrose,Nick rush middle for 9 yards gain to the UC45 (Durell,Trent).
+3rd and 1 at UCH45 No Huddle-Shotgun D'Ambrose,Nick rush middle for 0 yards to the UC45 (Kaesberg,Thomas).
+4th and 1 at UCH45 No Huddle-Shotgun D'Ambrose,Nick rush middle for 5 yards gain to the UC50 (Patterson,Charlie), 1ST DOWN.
+1st and 10 at UCH50 No Huddle-Shotgun Gow,Wesley pass complete short left to Nava,Aden for 5 yards to the IC45
+(Bearden,Garrett).
+2nd and 5 at ILL45 No Huddle-Shotgun Asare,Greg rush middle for 1 yard gain to the IC44 (Patterson,Charlie; Gognat,Drew).
+3rd and 4 at ILL44 No Huddle-Shotgun Gow,Wesley pass incomplete short middle to Asare,Greg PENALTY UC Holding declined.
+4th and 4 at ILL44 Bhuta,Noah punt 26 yards to the IC18 fair catch by Jones,Cameron at IC18.
+Illinois Col. at 08:35
+1st and 10 at ILL18 Illinois Col. drive start at 08:35.
+1st and 10 at ILL18 No Huddle-Shotgun Hanauer,Jack rush middle for 1 yard gain to the IC19 (Long,Arthur).
+2nd and 9 at ILL19 No Huddle-Shotgun Smalls,Trevor rush right for 2 yards loss to the IC17 (Sakashita,Stirling).
+3rd and 11 at ILL17 Timeout Illinois Col., clock 07:58.
+3rd and 11 at ILL17 No Huddle-Shotgun Hanauer,Jack rush right for 3 yards gain to the IC20 (Cardona,Carlos).
+4th and 8 at ILL20 Banovz,Zack punt 36 yards to the UC44 Janis,Michael return 35 yards to the IC21 (Banovz,Zack).
+Illinois Col. at 08:35
+1st and 10 at ILL18 Illinois Col. drive start at 08:35.
+1st and 10 at ILL18 No Huddle-Shotgun Hanauer,Jack rush middle for 1 yard gain to the IC19 (Long,Arthur).
+2nd and 9 at ILL19 No Huddle-Shotgun Smalls,Trevor rush right for 2 yards loss to the IC17 (Sakashita,Stirling).
+3rd and 11 at ILL17 Timeout Illinois Col., clock 07:58.
+3rd and 11 at ILL17 No Huddle-Shotgun Hanauer,Jack rush right for 3 yards gain to the IC20 (Cardona,Carlos).
+4th and 8 at ILL20 Banovz,Zack punt 36 yards to the UC44 Janis,Michael return 35 yards to the IC21 (Banovz,Zack).
+UChicago at 06:55
+1st and 10 at ILL21 UChicago drive start at 06:55.
+1st and 10 at ILL21 No Huddle-Shotgun D'Ambrose,Nick rush right for 6 yards gain to the IC15 (Jones,Cameron).
+2nd and 4 at ILL15 No Huddle-Shotgun Gow,Wesley sacked for loss of 9 yards to the IC24 (Durell,Trent).
+3rd and 13 at ILL24 No Huddle-Shotgun Gow,Wesley rush middle for 18 yards gain to the IC06 (Jones,Cameron), 1ST DOWN.
+1st and 6 at ILL6 No Huddle-Shotgun D'Ambrose,Nick rush middle for 5 yards gain to the IC01 (Durell,Trent).
+2nd and 1 at ILL1 No Huddle-Shotgun D'Ambrose,Nick rush middle for 1 yard gain to the IC00 TOUCHDOWN, clock 05:05.
+1st and 10 at ILL3 Goodman,Will kick attempt good (H: Janis,Michael, LS: Armstrong,Michael).
+1st and 10 at UCH35 Goodman,Will kickoff 55 yards to the IC10 DuBois,Colin return 19 yards to the IC29 (Goodkin,Jack).
+UChicago 13-0 Illinois Col.
+Illinois Col. at 04:59
+1st and 10 at ILL29 Illinois Col. drive start at 04:59.
+1st and 10 at ILL29 PENALTY UC Offside (Hassibi,Kourosh) 5 yards from IC29 to IC34. NO PLAY.
+1st and 5 at ILL34 No Huddle-Shotgun Smalls,Trevor rush middle for 1 yard gain to the IC35 (Cardona,Carlos; Cappellino,Aidan).
+2nd and 4 at ILL35 No Huddle-Shotgun Hanauer,Jack pass complete short left to Brunstein,Collin for 2 yards to the IC37 (Jelin,DJ;
+Soska,Nikulas).
+3rd and 2 at ILL37 PENALTY IC False Start (Henley,Evan) 5 yards from IC37 to IC32. NO PLAY.
+3rd and 7 at ILL32 No Huddle-Shotgun Hanauer,Jack pass complete deep left to Brunstein,Collin for 25 yards to the UC43
+(Sakashita,Stirling), 1ST DOWN.
+1st and 10 at UCH43 No Huddle-Shotgun Smalls,Trevor rush middle for 3 yards gain to the UC40 (Cappellino,Aidan; Skowronski,Will).
+2nd and 7 at UCH40 No Huddle-Shotgun Smalls,Trevor rush left for 10 yards loss to the UC50 fumbled by Smalls,Trevor at IC50
+forced by Hassibi,Kourosh recovered by UC Sakashita,Stirling at IC50 Sakashita,Stirling return for loss of 4 yards
+to the UC46 (Smalls,Trevor).
+Illinois Col. at 04:59
+1st and 10 at ILL29 Illinois Col. drive start at 04:59.
+1st and 10 at ILL29 PENALTY UC Offside (Hassibi,Kourosh) 5 yards from IC29 to IC34. NO PLAY.
+1st and 5 at ILL34 No Huddle-Shotgun Smalls,Trevor rush middle for 1 yard gain to the IC35 (Cardona,Carlos; Cappellino,Aidan).
+2nd and 4 at ILL35 No Huddle-Shotgun Hanauer,Jack pass complete short left to Brunstein,Collin for 2 yards to the IC37 (Jelin,DJ;
+Soska,Nikulas).
+3rd and 2 at ILL37 PENALTY IC False Start (Henley,Evan) 5 yards from IC37 to IC32. NO PLAY.
+3rd and 7 at ILL32 No Huddle-Shotgun Hanauer,Jack pass complete deep left to Brunstein,Collin for 25 yards to the UC43
+(Sakashita,Stirling), 1ST DOWN.
+1st and 10 at UCH43 No Huddle-Shotgun Smalls,Trevor rush middle for 3 yards gain to the UC40 (Cappellino,Aidan; Skowronski,Will).
+2nd and 7 at UCH40 No Huddle-Shotgun Smalls,Trevor rush left for 10 yards loss to the UC50 fumbled by Smalls,Trevor at IC50
+forced by Hassibi,Kourosh recovered by UC Sakashita,Stirling at IC50 Sakashita,Stirling return for loss of 4 yards
+to the UC46 (Smalls,Trevor).
+UChicago at 03:28
+1st and 10 at UCH46 UChicago drive start at 03:28.
+1st and 10 at UCH46 No Huddle-Shotgun Asare,Greg rush middle for 3 yards gain to the UC49 (Wolf,Stuart).
+2nd and 7 at UCH49 No Huddle-Shotgun Gow,Wesley pass complete short left to Nava,Aden for 3 yards loss to the UC46
+(Gerdes,Trey).
+3rd and 10 at UCH46 No Huddle-Shotgun Gow,Wesley pass incomplete short middle PENALTY UC Intentional Grounding (Gow,Wesley).
+4th and 25 at UCH31 Bhuta,Noah punt 36 yards to the IC33, out of bounds at IC33.
+UChicago at 03:28
+1st and 10 at UCH46 UChicago drive start at 03:28.
+1st and 10 at UCH46 No Huddle-Shotgun Asare,Greg rush middle for 3 yards gain to the UC49 (Wolf,Stuart).
+2nd and 7 at UCH49 No Huddle-Shotgun Gow,Wesley pass complete short left to Nava,Aden for 3 yards loss to the UC46
+(Gerdes,Trey).
+3rd and 10 at UCH46 No Huddle-Shotgun Gow,Wesley pass incomplete short middle PENALTY UC Intentional Grounding (Gow,Wesley).
+4th and 25 at UCH31 Bhuta,Noah punt 36 yards to the IC33, out of bounds at IC33.
+Illinois Col. at 01:55
+1st and 10 at ILL33 Illinois Col. drive start at 01:55.
+1st and 10 at ILL33 No Huddle-Shotgun Hanauer,Jack pass incomplete short middle to Smalls,Trevor.
+2nd and 10 at ILL33 No Huddle-Shotgun Hanauer,Jack pass complete short right to Smalls,Trevor for 4 yards to the IC37
+(Warden,Matthew).
+3rd and 6 at ILL37 Timeout Illinois Col., clock 00:59.
+3rd and 6 at ILL37 No Huddle-Shotgun Hanauer,Jack pass incomplete short right to Brunstein,Collin.
+4th and 6 at ILL37 Banovz,Zack punt 31 yards to the UC32.
+Illinois Col. at 01:55
+1st and 10 at ILL33 Illinois Col. drive start at 01:55.
+1st and 10 at ILL33 No Huddle-Shotgun Hanauer,Jack pass incomplete short middle to Smalls,Trevor.
+2nd and 10 at ILL33 No Huddle-Shotgun Hanauer,Jack pass complete short right to Smalls,Trevor for 4 yards to the IC37
+(Warden,Matthew).
+3rd and 6 at ILL37 Timeout Illinois Col., clock 00:59.
+3rd and 6 at ILL37 No Huddle-Shotgun Hanauer,Jack pass incomplete short right to Brunstein,Collin.
+4th and 6 at ILL37 Banovz,Zack punt 31 yards to the UC32.
+UChicago at 00:46
+1st and 10 at UCH32 UChicago drive start at 00:46.
+1st and 10 at UCH32 No Huddle-Shotgun Gow,Wesley pass incomplete short middle to Degner,Luke.
+2nd and 10 at UCH32 No Huddle-Shotgun Gow,Wesley pass incomplete short left to D'Ambrose,Nick.
+3rd and 10 at UCH32 No Huddle-Shotgun Gow,Wesley pass incomplete short middle to Nava,Aden.
+4th and 10 at UCH32 Bhuta,Noah punt 33 yards to the IC35 fair catch by Jones,Cameron at IC35.
 Start of 2nd Half
-BEL will receive; COR will defend North end-zone. Start of 3rd quarter, clock 15:00. Mitchell,Adam kickoff 12 yards to the Beloit18
-Thorpe,Gavin return 24 yards to the Beloit42 (Holt,Hunter).
-Cornell College at 09:18
-1st and 10 at COR24 Cornell College drive start at 09:18.
-1st and 10 at COR24 Smith,John pass complete short left to Cox,Matthew for 8 yards to the Cornel32 (Davis,EK).
-2nd and 2 at COR32 Lacy,Joel rush for 34 yards gain to the Beloit34 (White,Justin), 1ST DOWN.
-1st and 10 at BEL34 Abesames-Hammer,Daniel rush left for 2 yards gain to the Beloit32 (Croft Jr.,Christopher).
-2nd and 8 at BEL32 Smith,John pass complete deep middle to Reed,Cole for 12 yards to the Beloit20 (Schane,Quentin), 1ST DOWN.
-1st and 10 at BEL20 Lacy,Joel rush middle for 3 yards gain to the Beloit17 (Flores,Ethan).
-2nd and 7 at BEL17 Gomez,Tony rush right for 3 yards gain to the Beloit14 (Davis,EK).
-3rd and 4 at BEL14 Gomez,Tony rush right for 4 yards gain to the Beloit10 (Schane,Quentin), 1ST DOWN.
-1st and 10 at BEL10 Smith,John pass complete short left to Reed,Cole for 6 yards to the Beloit04 (White,Justin).
-2nd and 4 at BEL4 Gomez,Tony rush left for 4 yards gain to the Beloit00 TOUCHDOWN, clock 04:37, 1ST DOWN.
-1st and 10 at BEL3 Mitchell,Adam kick attempt good (H: Cox,Matthew, LS: Adams,Sam).
-1st and 10 at COR35 Mitchell,Adam kickoff 35 yards to the Beloit30 Fitzpatrick,AJ return 14 yards to the Beloit44 (Holt,Hunter).
-Cornell College 14-0 Beloit
-Beloit at 04:19
-1st and 10 at BEL44 Beloit drive start at 04:19.
-1st and 10 at BEL44 No Huddle-Shotgun Elder,Kaleb rush left for 2 yards gain to the Beloit46 (Lockington,Landon).
-2nd and 8 at BEL46 No Huddle-Shotgun Elder,Kaleb rush for 1 yard loss to the Beloit45 (Jacobs,Currey).
-3rd and 9 at BEL45 No Huddle-Shotgun Shafer,Jacob pass complete deep middle to Fitzpatrick,AJ for 40 yards to the Cornel15, out
-of bounds at Cornel15, 1ST DOWN.
-1st and 10 at COR15 PENALTY Beloit UNR: Unnecessary Roughness 15 yards from Cornel15 to Cornel30.
-1st and 25 at COR30 No Huddle-Shotgun Shafer,Jacob pass complete deep right to Fitzpatrick,AJ for 23 yards to the Cornel07, out of
-bounds at Cornel07.
-2nd and 2 at COR7 No Huddle-Shotgun Richardson,Donavan rush middle for 0 yards to the Cornel07 (Sells,Nicholas).
-3rd and 2 at COR7 Timeout Other, clock 01:39.
-3rd and 2 at COR7 No Huddle-Shotgun Shafer,Jacob rush middle for 1 yard loss to the Cornel08, End Of Play.
-4th and 3 at COR8 No Huddle-Shotgun Shafer,Jacob pass complete short middle to Fitzpatrick,AJ for 8 yards to the Cornel00
-TOUCHDOWN, clock 00:55, 1ST DOWN.
-1st and 10 at COR3 Cervantes Jr.,Rafael kick attempt good (H: Shafer,Jacob, LS: Diehl,Aiden).
-1st and 10 at BEL35 Cervantes Jr.,Rafael kickoff 59 yards to the Cornel06 Pinner,Rommel return 33 yards to the Cornel39 (Croft
-Jr.,Christopher).
-Cornell College 14-7 Beloit
-Cornell College at 00:49
-1st and 10 at COR39 Cornell College drive start at 00:49.
-1st and 10 at COR39 Spencer,Isaiah rush right for 2 yards gain to the Cornel41 (Flores,Ethan).
-2nd and 8 at COR41 Abesames-Hammer,Daniel rush middle for 1 yard loss to the Cornel40 (Bernadel,Lens).
-3rd and 9 at COR40 End of game, clock 00:00.
-Cornell College 14-7 Beloit
-Beloit at 14:45
-1st and 10 at BEL42 Beloit drive start at 14:45.
-1st and 10 at BEL42 Shotgun Marquez,Drake rush for 5 yards gain to the Beloit47 (Holt,Hunter).
-2nd and 5 at BEL47 Shotgun Marquez,Drake rush for 2 yards gain to the Beloit49 (Holt,Hunter).
-3rd and 3 at BEL49 Shotgun Shafer,Jacob rush middle for 12 yards gain to the Cornel39 (Roeding,Michael), 1ST DOWN.
-1st and 10 at COR39 Shotgun Marquez,Drake rush for 5 yards gain to the Cornel34 (Lockington,Landon).
-2nd and 5 at COR34 Shotgun Marquez,Drake rush for 3 yards gain to the Cornel31 (Lockington,Landon).
-3rd and 2 at COR31 Shotgun Marquez,Drake rush for 4 yards gain to the Cornel27 (Horne,Thomas), 1ST DOWN.
-1st and 10 at COR27 Shotgun Shafer,Jacob pass complete deep middle to Sanon,Jeto-Rivar for 17 yards to the Cornel10
-(Sells,Nicholas), 1ST DOWN.
-1st and 10 at COR10 Shotgun Shafer,Jacob pass incomplete short middle to Sanon,Jeto-Rivar.
-2nd and 10 at COR10 Shotgun Marquez,Drake rush middle for 4 yards gain to the Cornel06 (Holt,Hunter).
-3rd and 6 at COR6 Shotgun Shafer,Jacob pass intercepted by Albritton,Nasir at Cornel00, Touchback.
-Cornell College at 10:44
-1st and 10 at COR20 Cornell College drive start at 10:44.
-1st and 10 at COR20 Spencer,Isaiah rush right for 7 yards gain to the Cornel27 (Flores,Ethan).
-2nd and 3 at COR27 Spencer,Isaiah rush right for 5 yards gain to the Cornel32 (Thorpe,Gavin), 1ST DOWN.
-1st and 10 at COR32 Lacy,Joel rush right for 68 yards gain to the Beloit00 TOUCHDOWN, clock 09:24, 1ST DOWN.
-1st and 10 at BEL3 Mitchell,Adam kick attempt good (H: Cox,Matthew, LS: Adams,Sam).
-1st and 10 at COR35 Mitchell,Adam kickoff 37 yards to the Beloit28 Thorpe,Gavin return 12 yards to the Beloit40 (Albritton,Nasir).
-Cornell College 21-7 Beloit
-Beloit at 09:17
-1st and 10 at BEL40 Beloit drive start at 09:17.
-1st and 10 at BEL40 Shotgun Marquez,Drake rush for 9 yards gain to the Beloit49 (Holt,Hunter; Horne,Thomas).
-2nd and 1 at BEL49 Shotgun Shafer,Jacob pass incomplete short to Wellman,Isaac.
-3rd and 1 at BEL49 Shotgun Marquez,Drake rush for 4 yards gain to the Cornel47 (Holt,Hunter), 1ST DOWN.
-1st and 10 at COR47 Shotgun Marquez,Drake rush right for 11 yards gain to the Cornel36 (Perez,Savian), 1ST DOWN.
-1st and 10 at COR36 Shotgun Marquez,Drake rush right for 6 yards gain to the Cornel30 (Sells,Nicholas).
-2nd and 4 at COR30 Shotgun Marquez,Drake rush for 4 yards gain to the Cornel26 (Holt,Hunter), 1ST DOWN.
-1st and 10 at COR26 Shotgun Shafer,Jacob pass complete deep right to Sanon,Jeto-Rivar for 13 yards to the Cornel13, out of bounds
-at Cornel13, 1ST DOWN.
-1st and 10 at COR13 Shotgun Shafer,Jacob pass complete deep right to Sanon,Jeto-Rivar for 13 yards to the Cornel00 TOUCHDOWN,
-clock 06:42, 1ST DOWN.
-1st and 10 at COR3 Cervantes Jr.,Rafael kick attempt good (H: Shafer,Jacob, LS: Diehl,Aiden).
-1st and 10 at BEL35 Cervantes Jr.,Rafael kickoff 57 yards to the Cornel08 Pinner,Rommel return 22 yards to the Cornel30
-(Schane,Quentin).
-Cornell College 21-14 Beloit
-Cornell College at 06:30
-1st and 10 at COR30 Cornell College drive start at 06:30.
-1st and 10 at COR30 Lacy,Joel rush middle for 5 yards gain to the Cornel35 (Thornton Jr.,Darrell; Bernadel,Lens).
-2nd and 5 at COR35 Spencer,Isaiah rush middle for 10 yards gain to the Cornel45 (Hughes,Wyatt; Schane,Quentin), 1ST DOWN.
-1st and 10 at COR45 Spencer,Isaiah rush left for 9 yards gain to the Beloit46, out of bounds at Beloit46.
-2nd and 1 at BEL46 Lacy,Joel rush middle for 6 yards gain to the Beloit40 (Levra,Ethan), 1ST DOWN.
-1st and 10 at BEL40 Braud,Jordan rush middle for 11 yards gain to the Beloit29 (Croft Jr.,Christopher), 1ST DOWN.
-1st and 10 at BEL29 Braud,Jordan rush left for 2 yards gain to the Beloit27 (Flores,Ethan; Davis,EK).
-2nd and 8 at BEL27 Taguiam,Romien rush middle for 12 yards gain to the Beloit15 (Thorpe,Gavin), 1ST DOWN.
-1st and 10 at BEL15 Taguiam,Romien rush right for 2 yards gain to the Beloit13 (Douglas,Mitch).
-2nd and 8 at BEL13 Taguiam,Romien rush right for 2 yards loss to the Beloit15 (Hughes,Wyatt).
-3rd and 10 at BEL15 Smith,John pass complete short left to Cox,Matthew for 5 yards loss to the Beloit20, End Of Play PENALTY Cornel
-Ineligible Downfield on Pass 5 yards from Beloit15 to Beloit20. NO PLAY.
-3rd and 15 at BEL20 Smith,John pass incomplete short right to Cox,Matthew PENALTY Beloit Pass Interference 15 yards from Beloit20
-to Beloit05, 1ST DOWN. NO PLAY.
-1st and 5 at BEL5 Lacy,Joel rush middle for 5 yards gain to the Beloit00 TOUCHDOWN, clock 01:02.
-1st and 10 at BEL3 Mitchell,Adam kick attempt good (H: Cox,Matthew, LS: Adams,Sam).
-1st and 10 at COR35 Mitchell,Adam kickoff 53 yards to the Beloit12, out of bounds at Beloit12.
-1st and 10 at COR30 Mitchell,Adam kickoff 59 yards to the Beloit11 Fitzpatrick,AJ return 26 yards to the Beloit37 (Albritton,Nasir).
-Cornell College 28-14 Beloit
-Beloit at 00:54
-1st and 10 at BEL37 Beloit drive start at 00:54.
-1st and 10 at BEL37 PENALTY Beloit False Start 5 yards from Beloit37 to Beloit32.
-1st and 15 at BEL32 Shotgun Shafer,Jacob pass complete deep right to Fitzpatrick,AJ for 47 yards to the Cornel21, End Of Play, 1ST
-DOWN.
-1st and 10 at COR21 Shotgun Shafer,Jacob pass incomplete short middle to Sanon,Jeto-Rivar.
-2nd and 10 at COR21 Shotgun Marquez,Drake rush middle for 8 yards gain to the Cornel13 (Albritton,Nasir).
-Cornell College 28-14 Beloit
+ILL will receive; UCH will defend North end-zone.Start of 3rd quarter, clock 15:00.Goodman,Will kickoff 65 yards to the IC00, Touchback.
+UChicago at 00:46
+1st and 10 at UCH32 UChicago drive start at 00:46.
+1st and 10 at UCH32 No Huddle-Shotgun Gow,Wesley pass incomplete short middle to Degner,Luke.
+2nd and 10 at UCH32 No Huddle-Shotgun Gow,Wesley pass incomplete short left to D'Ambrose,Nick.
+3rd and 10 at UCH32 No Huddle-Shotgun Gow,Wesley pass incomplete short middle to Nava,Aden.
+4th and 10 at UCH32 Bhuta,Noah punt 33 yards to the IC35 fair catch by Jones,Cameron at IC35.
+Illinois Col. at 00:24
+1st and 10 at ILL35 Illinois Col. drive start at 00:24.
+1st and 10 at ILL35 No Huddle-Shotgun Hanauer,Jack pass complete short left to Corley,KJ for 8 yards to the IC43 (Minton,Josh).
+2nd and 2 at ILL43 Timeout Illinois Col., clock 00:15.
+2nd and 2 at ILL43 No Huddle-Shotgun Hanauer,Jack pass complete short right to Brunstein,Collin for 3 yards to the IC46
+(Sakashita,Stirling), out of bounds, 1ST DOWN.
+1st and 10 at ILL46 No Huddle-Shotgun Hanauer,Jack pass complete short left to Jones,Cameron for 5 yards loss to the IC41
+(Sakashita,Stirling).
+2nd and 15 at ILL41 End of game, clock 00:00.
+UChicago 13-0 Illinois Col.
+Illinois Col. at 15:00
+1st and 10 at ILL25 Illinois Col. drive start at 15:00.
+1st and 10 at ILL25 No Huddle-Shotgun Hanauer,Jack rush left for 2 yards gain to the IC27 (Platford,Banks; Lynch,Matt).
+2nd and 8 at ILL27 No Huddle-Shotgun Smalls,Trevor rush right for 2 yards gain to the IC29 (Vlahos,Emile).
+3rd and 6 at ILL29 No Huddle-Shotgun Hanauer,Jack pass incomplete short right to Campbell,William broken up by Cardona,Carlos.
+4th and 6 at ILL29 Banovz,Zack punt 16 yards to the IC45, out of bounds at IC45.
+Illinois Col. at 15:00
+1st and 10 at ILL25 Illinois Col. drive start at 15:00.
+1st and 10 at ILL25 No Huddle-Shotgun Hanauer,Jack rush left for 2 yards gain to the IC27 (Platford,Banks; Lynch,Matt).
+2nd and 8 at ILL27 No Huddle-Shotgun Smalls,Trevor rush right for 2 yards gain to the IC29 (Vlahos,Emile).
+3rd and 6 at ILL29 No Huddle-Shotgun Hanauer,Jack pass incomplete short right to Campbell,William broken up by Cardona,Carlos.
+4th and 6 at ILL29 Banovz,Zack punt 16 yards to the IC45, out of bounds at IC45.
+UChicago at 13:43
+1st and 10 at ILL45 UChicago drive start at 13:43.
+1st and 10 at ILL45 No Huddle-Shotgun Gow,Wesley pass complete deep middle to Smith,Colman for 45 yards to the IC00
+TOUCHDOWN, clock 13:35, 1ST DOWN.
+1st and 10 at ILL3 Goodman,Will kick attempt good (H: Janis,Michael, LS: Armstrong,Michael).
+1st and 10 at UCH35 Goodman,Will kickoff 65 yards to the IC00, Touchback.
+UChicago 20-0 Illinois Col.
+Illinois Col. at 13:35
+1st and 10 at ILL25 Illinois Col. drive start at 13:35.
+1st and 10 at ILL25 No Huddle-Shotgun Smalls,Trevor rush middle for 4 yards loss to the IC21 (Lewis,Roman).
+2nd and 14 at ILL21 No Huddle-Shotgun Hanauer,Jack rush middle for 19 yards gain to the IC40 (Sakashita,Stirling), 1ST DOWN.
+1st and 10 at ILL40 No Huddle-Shotgun Hanauer,Jack pass complete short right to Corley,KJ for 6 yards to the IC46 (Heine,Jason;
+Skowronski,Will).
+2nd and 4 at ILL46 No Huddle-Shotgun Hanauer,Jack pass incomplete short left to Schreacke,Isaac broken up by Heine,Jason.
+3rd and 4 at ILL46 No Huddle-Shotgun Hanauer,Jack pass incomplete short right to Campbell,William.
+4th and 4 at ILL46 Banovz,Zack punt 26 yards to the UC28.
+Illinois Col. at 13:35
+1st and 10 at ILL25 Illinois Col. drive start at 13:35.
+1st and 10 at ILL25 No Huddle-Shotgun Smalls,Trevor rush middle for 4 yards loss to the IC21 (Lewis,Roman).
+2nd and 14 at ILL21 No Huddle-Shotgun Hanauer,Jack rush middle for 19 yards gain to the IC40 (Sakashita,Stirling), 1ST DOWN.
+1st and 10 at ILL40 No Huddle-Shotgun Hanauer,Jack pass complete short right to Corley,KJ for 6 yards to the IC46 (Heine,Jason;
+Skowronski,Will).
+2nd and 4 at ILL46 No Huddle-Shotgun Hanauer,Jack pass incomplete short left to Schreacke,Isaac broken up by Heine,Jason.
+3rd and 4 at ILL46 No Huddle-Shotgun Hanauer,Jack pass incomplete short right to Campbell,William.
+4th and 4 at ILL46 Banovz,Zack punt 26 yards to the UC28.
+UChicago at 11:53
+1st and 10 at UCH28 UChicago drive start at 11:53.
+1st and 10 at UCH28 No Huddle-Shotgun Gow,Wesley rush middle for 3 yards gain to the UC31 (Gognat,Drew).
+2nd and 7 at UCH31 No Huddle-Shotgun D'Ambrose,Nick rush middle for 33 yards gain to the IC36 (Gerdes,Trey), 1ST DOWN.
+1st and 10 at ILL36 No Huddle-Shotgun Gow,Wesley pass incomplete short right to Janis,Michael.
+2nd and 10 at ILL36 No Huddle-Shotgun Alanis,Marcelo rush right for 36 yards gain to the IC00 TOUCHDOWN nullified by penalty,
+clock 10:49 PENALTY UC Holding (Hardberger,Yale) 10 yards from IC36 to IC46. NO PLAY.
+2nd and 20 at ILL46 No Huddle-Shotgun Alanis,Marcelo rush middle for 4 yards gain to the IC42 (Wolf,Stuart).
+3rd and 16 at ILL42 No Huddle-Shotgun Gow,Wesley pass complete deep middle to Solis,Gabe for 12 yards to the IC30
+(Williba,Eugene; Watkins,Larvell).
+4th and 4 at ILL30 Goodman,Will field goal attempt from 48 yards GOOD (H: Janis,Michael, LS: Armstrong,Michael), clock 09:17.
+1st and 10 at UCH35 Goodman,Will kickoff 65 yards to the IC00, Touchback.
+UChicago 23-0 Illinois Col.
+Illinois Col. at 09:17
+1st and 10 at ILL25 Illinois Col. drive start at 09:17.
+1st and 10 at ILL25 No Huddle-Shotgun Hanauer,Jack pass complete deep right to Brunstein,Collin for 75 yards to the UC00
+TOUCHDOWN, clock 09:08, 1ST DOWN.
+1st and 10 at UCH3 McTamney,Toby kick attempt good (H: Wongler,Logan, LS: Heier,Grant).
+1st and 10 at ILL35 McTamney,Toby kickoff 40 yards to the UC25 James,Kyle return 10 yards to the UC35 (Walbert,Cory).
+UChicago 23-7 Illinois Col.
+UChicago at 09:04
+1st and 10 at UCH35 UChicago drive start at 09:04.
+2nd and 1 at UCH44 Timeout Illinois Col., clock 09:04.
+1st and 10 at UCH35 No Huddle-Shotgun D'Ambrose,Nick rush middle for 9 yards gain to the UC44 (Patterson,Charlie).
+2nd and 1 at UCH44 No Huddle-Shotgun D'Ambrose,Nick rush middle for 0 yards to the UC44 (Bearden,Garrett; Armstrong,Donovan).
+3rd and 1 at UCH44 No Huddle-Shotgun D'Ambrose,Nick rush middle for 3 yards gain to the UC47 (Patterson,Charlie), 1ST DOWN.
+1st and 10 at UCH47 No Huddle-Shotgun James,Kyle rush middle for 23 yards gain to the IC30 (Williba,Eugene; Shaw,Keane), out of
+bounds, 1ST DOWN.
+1st and 10 at ILL30 PENALTY IC Offside (Kaesberg,Thomas) 5 yards from IC30 to IC25. NO PLAY.
+1st and 5 at ILL25 No Huddle-Shotgun James,Kyle rush middle for 3 yards gain to the IC22 (Durell,Trent).
+2nd and 2 at ILL22 No Huddle-Shotgun D'Ambrose,Nick rush middle for 1 yard gain to the IC21 (Wolf,Stuart).
+3rd and 1 at ILL21 No Huddle-Shotgun D'Ambrose,Nick rush right for 3 yards gain to the IC18 (Shaw,Keane), 1ST DOWN.
+1st and 10 at ILL18 No Huddle-Shotgun Gow,Wesley sacked for loss of 10 yards to the IC28 (Patterson,Charlie).
+2nd and 20 at ILL28 No Huddle-Shotgun Gow,Wesley pass complete deep left to James,Kyle for 16 yards to the IC12
+(Patterson,Charlie).
+3rd and 4 at ILL12 No Huddle-Shotgun Gow,Wesley rush right for 4 yards loss to the IC16 (Watkins,Larvell).
+4th and 8 at ILL16 Goodman,Will field goal attempt from 34 yards NO GOOD (H: Janis,Michael, LS: Armstrong,Michael), clock
+03:44.
+UChicago at 09:04
+1st and 10 at UCH35 UChicago drive start at 09:04.
+2nd and 1 at UCH44 Timeout Illinois Col., clock 09:04.
+1st and 10 at UCH35 No Huddle-Shotgun D'Ambrose,Nick rush middle for 9 yards gain to the UC44 (Patterson,Charlie).
+2nd and 1 at UCH44 No Huddle-Shotgun D'Ambrose,Nick rush middle for 0 yards to the UC44 (Bearden,Garrett; Armstrong,Donovan).
+3rd and 1 at UCH44 No Huddle-Shotgun D'Ambrose,Nick rush middle for 3 yards gain to the UC47 (Patterson,Charlie), 1ST DOWN.
+1st and 10 at UCH47 No Huddle-Shotgun James,Kyle rush middle for 23 yards gain to the IC30 (Williba,Eugene; Shaw,Keane), out of
+bounds, 1ST DOWN.
+1st and 10 at ILL30 PENALTY IC Offside (Kaesberg,Thomas) 5 yards from IC30 to IC25. NO PLAY.
+1st and 5 at ILL25 No Huddle-Shotgun James,Kyle rush middle for 3 yards gain to the IC22 (Durell,Trent).
+2nd and 2 at ILL22 No Huddle-Shotgun D'Ambrose,Nick rush middle for 1 yard gain to the IC21 (Wolf,Stuart).
+3rd and 1 at ILL21 No Huddle-Shotgun D'Ambrose,Nick rush right for 3 yards gain to the IC18 (Shaw,Keane), 1ST DOWN.
+1st and 10 at ILL18 No Huddle-Shotgun Gow,Wesley sacked for loss of 10 yards to the IC28 (Patterson,Charlie).
+2nd and 20 at ILL28 No Huddle-Shotgun Gow,Wesley pass complete deep left to James,Kyle for 16 yards to the IC12
+(Patterson,Charlie).
+3rd and 4 at ILL12 No Huddle-Shotgun Gow,Wesley rush right for 4 yards loss to the IC16 (Watkins,Larvell).
+4th and 8 at ILL16 Goodman,Will field goal attempt from 34 yards NO GOOD (H: Janis,Michael, LS: Armstrong,Michael), clock
+03:44.
+Illinois Col. at 03:44
+1st and 10 at ILL20 Illinois Col. drive start at 03:44.
+1st and 10 at ILL20 No Huddle-Shotgun Smalls,Trevor rush middle for 5 yards gain to the IC25 (Patton,Cale).
+2nd and 5 at ILL25 No Huddle-Shotgun Smalls,Trevor rush middle for 4 yards gain to the IC29 (Patton,Cale; Skowronski,Will).
+3rd and 1 at ILL29 No Huddle-Shotgun Smalls,Trevor rush middle for 1 yard loss to the IC28 (Lewis,Roman).
+4th and 2 at ILL28 Timeout UChicago, clock 02:24.
+4th and 2 at ILL28 No Huddle-Shotgun Hanauer,Jack rush left for 1 yard incomplete gain to the IC29 (Cappellino,Aidan).
+Illinois Col. at 03:44
+1st and 10 at ILL20 Illinois Col. drive start at 03:44.
+1st and 10 at ILL20 No Huddle-Shotgun Smalls,Trevor rush middle for 5 yards gain to the IC25 (Patton,Cale).
+2nd and 5 at ILL25 No Huddle-Shotgun Smalls,Trevor rush middle for 4 yards gain to the IC29 (Patton,Cale; Skowronski,Will).
+3rd and 1 at ILL29 No Huddle-Shotgun Smalls,Trevor rush middle for 1 yard loss to the IC28 (Lewis,Roman).
+4th and 2 at ILL28 Timeout UChicago, clock 02:24.
+4th and 2 at ILL28 No Huddle-Shotgun Hanauer,Jack rush left for 1 yard gain incomplete to the IC29 (Cappellino,Aidan).
+UChicago at 02:18
+1st and 10 at ILL29 UChicago drive start at 02:18.
+1st and 10 at ILL29 No Huddle-Shotgun D'Ambrose,Nick rush left for 5 yards loss to the IC34 (Gerdes,Trey) PENALTY IC UNS:
+Unsportsmanlike Conduct (Watkins,Larvell) 16 yards from IC34 to IC18, 1ST DOWN.
+1st and 10 at ILL18 No Huddle-Shotgun D'Ambrose,Nick rush middle for 4 yards gain to the IC14 (Kaesberg,Thomas;
+Patterson,Charlie).
+2nd and 6 at ILL14 No Huddle-Shotgun Gow,Wesley rush middle for 1 yard loss to the IC15 (Kaesberg,Thomas; Patterson,Charlie).
+3rd and 7 at ILL15 No Huddle-Shotgun Gow,Wesley pass incomplete short middle to Solis,Diego.
+4th and 7 at ILL15 Goodman,Will field goal attempt from 37 yards GOOD (H: Janis,Michael, LS: Armstrong,Michael), clock 00:20.
+1st and 10 at UCH35 Goodman,Will kickoff 65 yards to the IC00, Touchback.
+UChicago 26-7 Illinois Col.
+Illinois Col. at 00:20
+1st and 10 at ILL25 Illinois Col. drive start at 00:20.
+1st and 10 at ILL25 No Huddle-Shotgun Hanauer,Jack pass complete short middle to Smalls,Trevor for 8 yards to the IC33 fumbled
+by Smalls,Trevor at IC30 forced by Junker,Braedon recovered by UC Vlahos,Emile at IC33, End Of Play.
+Illinois Col. at 00:20
+1st and 10 at ILL25 Illinois Col. drive start at 00:20.
+1st and 10 at ILL25 No Huddle-Shotgun Hanauer,Jack pass complete short middle to Smalls,Trevor for 8 yards to the IC33 fumbled
+by Smalls,Trevor at IC30 forced by Junker,Braedon recovered by UC Vlahos,Emile at IC33, End Of Play.
+UChicago at 00:09
+1st and 10 at ILL33 UChicago drive start at 00:09.
+1st and 10 at ILL33 No Huddle-Shotgun Gow,Wesley pass complete deep right to Solis,Diego for 33 yards to the IC00 TOUCHDOWN,
+clock 00:02, 1ST DOWN.
+1st and 10 at ILL3 Goodman,Will kick attempt good (H: Janis,Michael, LS: Armstrong,Michael).
+1st and 10 at UCH35 Goodman,Will kickoff 65 yards to the IC00, Touchback.
+UChicago 33-7 Illinois Col.
+Illinois Col. at 00:02
+1st and 10 at ILL25 Illinois Col. drive start at 00:02.
+1st and 10 at ILL25 No Huddle-Shotgun Smalls,Trevor rush left for 3 yards gain to the IC28 (Junker,Braedon; Skowronski,Will).
+UChicago 33-7 Illinois Col.
 Start of Quarter #4
-3rd and 2 at COR13 Start of 4th quarter, clock 15:00.
-3rd and 2 at COR13 Shotgun Marquez,Drake rush middle for 3 yards gain to the Cornel10 (Sunga,Nicholas), 1ST DOWN.
-1st and 10 at COR10 Shotgun Shafer,Jacob sacked for loss of 10 yards to the Cornel20 (Ciari,Mason).
-2nd and 20 at COR20 Shotgun Shafer,Jacob pass incomplete short middle to Moore,Chris.
-3rd and 20 at COR20 Shotgun Shafer,Jacob pass intercepted by Ploeger,Jaden at Cornel20 QB hurried by Ploeger,Jaden Ploeger,Jaden
-return 26 yards to the Cornel46 (Pena Jr.,Javier).
-Cornell College at 13:37
-1st and 10 at COR46 Cornell College drive start at 13:37.
-1st and 10 at COR46 Lacy,Joel rush left for 2 yards gain to the Cornel48 (Croft Jr.,Christopher).
-2nd and 8 at COR48 Lacy,Joel rush middle for 5 yards gain to the Beloit47 (Thorpe,Gavin).
-3rd and 3 at BEL47 Lacy,Joel rush right for 2 yards gain to the Beloit45 (Bertrand,Bernstein).
-4th and 1 at BEL45 Lacy,Joel rush right for 2 yards gain to the Beloit43 (Croft Jr.,Christopher), 1ST DOWN.
-1st and 10 at BEL43 PENALTY Beloit Offside (Carr-Lane,Mo) 5 yards from Beloit43 to Beloit38. NO PLAY.
-1st and 5 at BEL38 Abesames-Hammer,Daniel rush right for 3 yards gain to the Beloit35 (Flores,Ethan).
-2nd and 2 at BEL35 Smith,John pass complete short middle to Reed,Cole for 5 yards to the Beloit30 (Croft Jr.,Christopher), 1ST
+2nd and 7 at ILL28 Start of 4th quarter, clock 15:00.
+2nd and 7 at ILL28 No Huddle-Shotgun Nelson,Bobby rush middle for 0 yards to the IC28 (Soska,Nikulas; Warden,Matthew).
+3rd and 7 at ILL28 No Huddle-Shotgun Hanauer,Jack pass complete short right to Corley,KJ for 7 yards to the IC35, out of bounds
+at IC35, 1ST DOWN.
+1st and 10 at ILL35 No Huddle-Shotgun Hanauer,Jack sacked for loss of 10 yards to the IC25 (Hassibi,Kourosh).
+2nd and 20 at ILL25 No Huddle-Shotgun Hanauer,Jack pass complete short right to Brunstein,Collin for 10 yards to the IC35
+(Junker,Braedon; Sakashita,Stirling).
+3rd and 10 at ILL35 No Huddle-Shotgun Hanauer,Jack pass incomplete short right to Campbell,William.
+4th and 10 at ILL35 Banovz,Zack punt 0 yards to the IC35 blocked by Kelly,Seamus recovered by UC Kelly,Seamus at IC20
+TOUCHDOWN, clock 12:49.
+1st and 10 at ILL3 Goodman,Will kick attempt good (H: Janis,Michael, LS: Armstrong,Michael).
+1st and 10 at UCH35 PENALTY IC UNS: Unsportsmanlike Conduct 15 yards from UC35 to UC50. NO PLAY.
+1st and 10 at UCH50 Goodman,Will kickoff 50 yards to the IC00, Touchback.
+UChicago 40-7 Illinois Col.
+Illinois Col. at 12:49
+1st and 10 at ILL25 Illinois Col. drive start at 12:49.
+1st and 10 at ILL25 No Huddle-Shotgun Brown,Bryson pass incomplete short middle to Brunstein,Collin broken up by
+Junker,Braedon.
+2nd and 10 at ILL25 No Huddle-Shotgun Brown,Bryson pass complete short left to Corley,KJ for 8 yards to the IC33 (Skowronski,Will;
+Cardona,Carlos).
+3rd and 2 at ILL33 No Huddle-Shotgun Brown,Bryson rush middle for 3 yards gain to the IC36 (Heine,Jason), 1ST DOWN.
+1st and 10 at ILL36 No Huddle-Shotgun Brown,Bryson pass complete deep right to Corley,KJ for 64 yards to the UC00 TOUCHDOWN,
+clock 11:29, 1ST DOWN.
+1st and 10 at UCH3 McTamney,Toby kick attempt good (H: Wongler,Logan, LS: Heier,Grant).
+1st and 10 at ILL35 McTamney,Toby kickoff 17 yards to the UC48 Sakashita,Stirling return 0 yards to the UC48, End Of Play.
+UChicago 40-14 Illinois Col.
+UChicago at 11:27
+1st and 10 at UCH48 UChicago drive start at 11:27.
+1st and 10 at UCH48 No Huddle-Shotgun Bommarito-Logan,Rhys rush middle for 2 yards loss to the UC46 (Patterson,Charlie;
+Durell,Trent).
+2nd and 12 at UCH46 No Huddle-Shotgun Bommarito-Logan,Rhys rush middle for 7 yards gain to the IC47 (Kaesberg,Thomas;
+Patterson,Charlie).
+3rd and 5 at ILL47 No Huddle-Shotgun Gow,Wesley pass incomplete short right to Janis,Michael broken up by McCalla,Kyle.
+4th and 5 at ILL47 Bhuta,Noah punt 19 yards to the IC28, out of bounds at IC28.
+UChicago at 11:27
+1st and 10 at UCH48 UChicago drive start at 11:27.
+1st and 10 at UCH48 No Huddle-Shotgun Bommarito-Logan,Rhys rush middle for 2 yards loss to the UC46 (Patterson,Charlie;
+Durell,Trent).
+2nd and 12 at UCH46 No Huddle-Shotgun Bommarito-Logan,Rhys rush middle for 7 yards gain to the IC47 (Kaesberg,Thomas;
+Patterson,Charlie).
+3rd and 5 at ILL47 No Huddle-Shotgun Gow,Wesley pass incomplete short right to Janis,Michael broken up by McCalla,Kyle.
+4th and 5 at ILL47 Bhuta,Noah punt 19 yards to the IC28, out of bounds at IC28.
+Illinois Col. at 09:48
+1st and 10 at ILL28 Illinois Col. drive start at 09:48.
+1st and 10 at ILL28 No Huddle-Shotgun Brown,Bryson pass incomplete short middle to Campbell,William broken up by
+Cappellino,Aidan.
+2nd and 10 at ILL28 No Huddle-Shotgun Brown,Bryson pass incomplete short left to Brunstein,Collin.
+3rd and 10 at ILL28 No Huddle-Shotgun Brown,Bryson pass incomplete short middle to Brunstein,Collin broken up by
+Sakashita,Stirling.
+4th and 10 at ILL28 No Huddle-Shotgun Brown,Bryson pass complete deep left to Brunstein,Collin for 28 yards to the UC44(Heine,Jason), 1ST DOWN.
+1st and 10 at UCH44 No Huddle-Shotgun Brown,Bryson rush middle for 4 yards gain to the UC40, End Of Play.
+2nd and 6 at UCH40 No Huddle-Shotgun Brown,Bryson pass complete short left to Cooley,Darrius for 8 yards to the UC32
+(Vlahos,Emile), 1ST DOWN.
+1st and 10 at UCH32 No Huddle-Shotgun Brown,Bryson pass complete short right to Wayer,Laten for 3 yards to the UC29
+(Sakashita,Stirling).
+2nd and 7 at UCH29 No Huddle-Shotgun Brown,Bryson rush right for 4 yards gain to the UC25 (Sakashita,Stirling), out of bounds.
+3rd and 3 at UCH25 PENALTY IC False Start (Henley,Evan) 5 yards from UC25 to UC30. NO PLAY.
+3rd and 8 at UCH30 No Huddle-Shotgun Hanauer,Jack pass incomplete short left to Schreacke,Isaac broken up by Shumard,Andrew.
+4th and 8 at UCH30 No Huddle-Shotgun Hanauer,Jack pass complete deep right to Corley,KJ for 13 yards to the UC17, out of bounds at UC17, 1ST DOWN.
+1st and 10 at UCH17 No Huddle-Shotgun Hanauer,Jack pass incomplete short left to Schreacke,Isaac broken up by Heine,Jason.
+2nd and 10 at UCH17 No Huddle-Shotgun Hanauer,Jack pass incomplete short right to Campbell,William broken up by Vlahos,Emile.
+3rd and 10 at UCH17 No Huddle-Shotgun Hanauer,Jack rush middle for 7 yards gain to the UC10 (Skowronski,Will).
+4th and 3 at UCH10 No Huddle-Shotgun Hanauer,Jack pass incomplete short left to Corley,KJ broken up by Cappellino,Aidan.
+Illinois Col. at 09:48
+1st and 10 at ILL28 Illinois Col. drive start at 09:48.
+1st and 10 at ILL28 No Huddle-Shotgun Brown,Bryson pass incomplete short middle to Campbell,William broken up by
+Cappellino,Aidan.
+2nd and 10 at ILL28 No Huddle-Shotgun Brown,Bryson pass incomplete short left to Brunstein,Collin.
+3rd and 10 at ILL28 No Huddle-Shotgun Brown,Bryson pass incomplete short middle to Brunstein,Collin broken up by
+Sakashita,Stirling.
+4th and 10 at ILL28 No Huddle-Shotgun Brown,Bryson pass complete deep left to Brunstein,Collin for 28 yards to the UC44 (Heine,Jason), 1ST DOWN.
+1st and 10 at UCH44 No Huddle-Shotgun Brown,Bryson rush middle for 4 yards gain to the UC40, End Of Play.
+2nd and 6 at UCH40 No Huddle-Shotgun Brown,Bryson pass complete short left to Cooley,Darrius for 8 yards to the UC32
+(Vlahos,Emile), 1ST DOWN.
+1st and 10 at UCH32 No Huddle-Shotgun Brown,Bryson pass complete short right to Wayer,Laten for 3 yards to the UC29
+(Sakashita,Stirling).
+2nd and 7 at UCH29 No Huddle-Shotgun Brown,Bryson rush right for 4 yards gain to the UC25 (Sakashita,Stirling), out of bounds.
+3rd and 3 at UCH25 PENALTY IC False Start (Henley,Evan) 5 yards from UC25 to UC30. NO PLAY.
+3rd and 8 at UCH30 No Huddle-Shotgun Hanauer,Jack pass incomplete short left to Schreacke,Isaac broken up by Shumard,Andrew.
+4th and 8 at UCH30 No Huddle-Shotgun Hanauer,Jack pass complete deep right to Corley,KJ for 13 yards to the UC17, out of bounds at UC17, 1ST DOWN.
+1st and 10 at UCH17 No Huddle-Shotgun Hanauer,Jack pass incomplete short left to Schreacke,Isaac broken up by Heine,Jason.
+2nd and 10 at UCH17 No Huddle-Shotgun Hanauer,Jack pass incomplete short right to Campbell,William broken up by Vlahos,Emile.
+3rd and 10 at UCH17 No Huddle-Shotgun Hanauer,Jack rush middle for 7 yards gain to the UC10 (Skowronski,Will).
+4th and 3 at UCH10 No Huddle-Shotgun Hanauer,Jack pass incomplete short left to Corley,KJ broken up by Cappellino,Aidan.
+UChicago at 06:27
+1st and 10 at UCH10 UChicago drive start at 06:27.
+1st and 10 at UCH10 No Huddle-Shotgun Asare,Greg rush middle for 3 yards gain to the UC13 (Gognat,Drew; Patterson,Charlie).
+2nd and 7 at UCH13 No Huddle-Shotgun Asare,Greg rush middle for 4 yards gain to the UC17 (Patterson,Charlie; Durell,Trent).
+3rd and 3 at UCH17 No Huddle-Shotgun Asare,Greg rush middle for 7 yards gain to the UC24 (Dailey,Cam; Patterson,Charlie), 1ST
 DOWN.
-1st and 10 at BEL30 Abesames-Hammer,Daniel rush left for 22 yards gain to the Beloit08 (Talamaivao,Cody), 1ST DOWN.
-1st and 8 at BEL8 Lacy,Joel rush middle for 4 yards gain to the Beloit04 (Flores,Ethan).
-2nd and 4 at BEL4 Spencer,Isaiah rush middle for 4 yards gain to the Beloit00 TOUCHDOWN, clock 08:43.
-1st and 10 at BEL3 Mitchell,Adam kick attempt good (H: Cox,Matthew, LS: Adams,Sam).
-1st and 10 at COR35 Mitchell,Adam kickoff 54 yards to the Beloit11 Fitzpatrick,AJ return 15 yards to the Beloit26 (Hoffman,Anthony).
-Cornell College 35-14 Beloit
-Beloit at 08:37
-1st and 10 at BEL26 Beloit drive start at 08:37.
-1st and 10 at BEL26 Shotgun Marquez,Drake rush middle for 13 yards gain to the Beloit39 (Holt,Hunter), 1ST DOWN.
-1st and 10 at BEL39 Shotgun Marquez,Drake rush middle for 2 yards gain to the Beloit41 (Lockington,Landon).
-2nd and 8 at BEL41 Marquez,Drake rush left for 1 yard gain to the Beloit42 (Laikupu,Shawn).
-3rd and 7 at BEL42 Shafer,Jacob pass complete short left to Harris,Camoryn for 3 yards to the Beloit45 (Adams,Sam).
-4th and 4 at BEL45 Shafer,Jacob pass incomplete short middle to Moore,Chris.
-Cornell College at 06:11
-1st and 10 at BEL45 Cornell College drive start at 06:11.
-1st and 10 at BEL45 Lacy,Joel rush middle for 3 yards gain to the Beloit42 (Bernadel,Lens).
-2nd and 7 at BEL42 Braud,Jordan rush middle for 1 yard gain to the Beloit41 (Flores,Ethan; Nelson,Chase).
-3rd and 6 at BEL41 Taguiam,Romien rush middle for 1 yard gain to the Beloit40 (Schane,Quentin; Flores,Ethan).
-4th and 5 at BEL40 Smith,John pass incomplete short middle to Hailpern,Aaryn.
-Beloit at 03:43
-1st and 10 at BEL40 Beloit drive start at 03:43.
-1st and 10 at BEL40 Shafer,Jacob pass complete short left to Sanon,Jeto-Rivar for 0 yards to the Beloit40 (West,Roman) PENALTY
-Beloit False Start 5 yards from Beloit40 to Beloit35. NO PLAY.
-1st and 15 at BEL35 Shafer,Jacob pass incomplete short middle to Fitzpatrick,AJ.
-2nd and 15 at BEL35 Shafer,Jacob pass complete short middle to Card,Brady for 8 yards to the Beloit43 (Ploeger,Jaden).
-3rd and 7 at BEL43 Shafer,Jacob pass incomplete short middle to Guillen,Jose.
-4th and 7 at BEL43 Shafer,Jacob pass incomplete short middle to Guillen,Jose.
-Cornell College at 02:06
-1st and 10 at BEL43 Cornell College drive start at 02:06.
-1st and 10 at BEL43 Cornell College rush middle for 1 yard loss to the Beloit44, End Of Play.
-2nd and 11 at BEL44 Cornell College rush middle for 1 yard loss to the Beloit45, End Of Play.
-3rd and 12 at BEL45 Cornell College rush middle for 1 yard loss to the Beloit46, End Of Play.
-4th and 13 at BEL46 End of game, clock 00:00.
+1st and 10 at UCH24 Timeout UChicago, clock 04:19.
+1st and 10 at UCH24 No Huddle-Shotgun Asare,Greg rush middle for 2 yards gain to the UC26 (Wolf,Stuart; Patterson,Charlie).
+2nd and 8 at UCH26 No Huddle-Shotgun Asare,Greg rush middle for 2 yards gain to the UC28 (Jones,Cameron; Durell,Trent).
+3rd and 6 at UCH28 Timeout Illinois Col., clock 03:26.
+3rd and 6 at UCH28 No Huddle-Shotgun Gow,Wesley sacked for loss of 10 yards to the UC18 (Patterson,Charlie).
+4th and 16 at UCH18 Timeout Illinois Col., clock 03:18.
+4th and 16 at UCH18 Bhuta,Noah punt 37 yards to the IC45 Corley,KJ return 5 yards to the UC50 (Clifford,Tim) PENALTY IC UNR:
+Unnecessary Roughness (Guffey,Matthew) 15 yards from UC50 to IC35.
+4th and 16 at UCH18 ILL ball on ILL35.
+UChicago at 06:27
+1st and 10 at UCH10 UChicago drive start at 06:27.
+1st and 10 at UCH10 No Huddle-Shotgun Asare,Greg rush middle for 3 yards gain to the UC13 (Gognat,Drew; Patterson,Charlie).
+2nd and 7 at UCH13 No Huddle-Shotgun Asare,Greg rush middle for 4 yards gain to the UC17 (Patterson,Charlie; Durell,Trent).
+3rd and 3 at UCH17 No Huddle-Shotgun Asare,Greg rush middle for 7 yards gain to the UC24 (Dailey,Cam; Patterson,Charlie), 1ST
+DOWN.
+1st and 10 at UCH24 Timeout UChicago, clock 04:19.
+1st and 10 at UCH24 No Huddle-Shotgun Asare,Greg rush middle for 2 yards gain to the UC26 (Wolf,Stuart; Patterson,Charlie).
+2nd and 8 at UCH26 No Huddle-Shotgun Asare,Greg rush middle for 2 yards gain to the UC28 (Jones,Cameron; Durell,Trent).
+3rd and 6 at UCH28 Timeout Illinois Col., clock 03:26.
+3rd and 6 at UCH28 No Huddle-Shotgun Gow,Wesley sacked for loss of 10 yards to the UC18 (Patterson,Charlie).
+4th and 16 at UCH18 Timeout Illinois Col., clock 03:18.
+4th and 16 at UCH18 Bhuta,Noah punt 37 yards to the IC45 Corley,KJ return 5 yards to the UC50 (Clifford,Tim) PENALTY IC UNR:
+Unnecessary Roughness (Guffey,Matthew) 15 yards from UC50 to IC35.
+4th and 16 at UCH18 ILL ball on ILL35.
+Illinois Col. at 03:08
+1st and 10 at ILL35 Illinois Col. drive start at 03:08.
+1st and 10 at ILL35 No Huddle-Shotgun Brown,Bryson pass incomplete short left to Brunstein,Collin.
+2nd and 10 at ILL35 No Huddle-Shotgun Brown,Bryson pass complete short right to Corley,KJ for 1 yard to the IC36
+(Cardona,Carlos).
+3rd and 9 at ILL36 No Huddle-Shotgun Brown,Bryson sacked for loss of 1 yard to the IC35 (Lewis,Roman, Clifford,Tim).
+4th and 10 at ILL35 No Huddle-Shotgun Brown,Bryson sacked for loss of 7 yards to the IC28 (Kelly,Seamus).
+Illinois Col. at 03:08
+1st and 10 at ILL35 Illinois Col. drive start at 03:08.
+1st and 10 at ILL35 No Huddle-Shotgun Brown,Bryson pass incomplete short left to Brunstein,Collin.
+2nd and 10 at ILL35 No Huddle-Shotgun Brown,Bryson pass complete short right to Corley,KJ for 1 yard to the IC36
+(Cardona,Carlos).
+3rd and 9 at ILL36 No Huddle-Shotgun Brown,Bryson sacked for loss of 1 yard to the IC35 (Lewis,Roman, Clifford,Tim).
+4th and 10 at ILL35 No Huddle-Shotgun Brown,Bryson sacked for loss of 7 yards to the IC28 (Kelly,Seamus).
+UChicago at 01:47
+1st and 10 at ILL28 UChicago drive start at 01:47.
+1st and 10 at ILL28 No Huddle-Shotgun Bommarito-Logan,Rhys rush middle for 4 yards gain to the IC24 (Washington,A'ron;
+Watkins,Larvell).
+2nd and 6 at ILL24 Kneel down by Gow,Wesley at IC26 for loss of 2 yards.
+3rd and 8 at ILL26 Kneel down by Gow,Wesley at IC28 for loss of 2 yards.
+4th and 10 at ILL28 End of game, clock 00:00.
