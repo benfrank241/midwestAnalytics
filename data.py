@@ -128,7 +128,6 @@ for i in range(len(d_stats)):
             # print(o_stats[i][1])
             d_stats[i][1] = d_stats[i][1].replace('.','')
 
-
 #Create DataFrame from our scraped data
 tableName = "defense"
 # print(o_column_names)
@@ -141,7 +140,7 @@ for i in cata:
     data[i] = pd.to_numeric(data[i])
 
 data["SO%"] = (data["SO"]) / (data["AB"])
-print(data.head())
+# print(data.head())
 
 # print(data.dtypes)
 

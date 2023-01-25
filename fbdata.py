@@ -1,14 +1,14 @@
-# from urllib.request import urlopen
-# from bs4 import BeautifulSoup
-# import ssl
-# from sqlalchemy import create_engine
-# # Import data manipulation modules
-# import pandas as pd
-# import pymysql
-# import numpy as np
-# # Import data visualization modules
-# import matplotlib as mpl
-# import matplotlib.pyplot as plt
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+import ssl
+from sqlalchemy import create_engine
+# Import data manipulation modules
+import pandas as pd
+import pymysql
+import numpy as np
+# Import data visualization modules
+import matplotlib as mpl
+import matplotlib.pyplot as plt
 
 
 #Data to collect
@@ -119,7 +119,8 @@ for i in setsOfDowns:
 
 import re
 
-teams = ["Cornell", "Beloit", "Illinois", "UChicago", "Monmouth (IL)", "Grinell"]
+teams = ["Cornell", "Beloit", "Illinois", "UChicago", "Monmouth", "Grinnell", "Lake", "Lawrence", "Univ.", "Ripon", "Knox", "Chicago"]
+
 fourth_data = []
 
 
@@ -130,8 +131,9 @@ def collect_fourth_down_data():
         # Use regular expressions to search for the relevant information in the box score
         fourth_down_pattern = re.compile(r'(4th and \d+)')
         for line in f:
+            line = line.replace("\t", " ")
+            line = line.split(" ") #split
 
-            line = line.split(" ") #split 
 
             if len(line) <= 6 and "at" in line:
                 if line[0] in teams:
@@ -170,18 +172,67 @@ def collect_fourth_down_data():
                     result = "Failed"
                 if "loss" in line:
                     result = "Failed"
+                if "intercepted" in line:
+                    result = "Failed"
 
                 if result == "unknown":
+                    print("Failed Line: ")
                     print(" ".join(line))
-                    raise Exception("UKNOWN RESULT")
+                    # raise Exception("UNKNOWN RESULT")
 
-
-                fourth_data.append([current_team + " " + down + " " + distance + " " + result])
+                if current_team == "Univ.":
+                    current_team = "Chicago"
+                if current_team == "UChicago":
+                    current_team = "Chicago"
+                if len(distance) >= 6:
+                    first = distance[:3]
+                    second = distance[-2:]
+                    distance = first+second
+                fourth_data.append([current_team, down , distance, result])
                 
 
         
 
 collect_fourth_down_data()
 # print(fourth_data)
-for i in fourth_data:
-    print(i)
+# for i in fourth_data:
+#     print(i)
+
+cata = ['Team', 'Yards', 'Distance', 'Result']
+
+data = pd.DataFrame(fourth_data, columns=cata)
+# print(data.to_string())
+
+
+#might need to delete every 2nd entry bc box score has double for some stupid reason
+#Exepct 1st game, Knox vs Ripon and games after, (- IC vs MON,
+
+
+
+
+# upload to MySQL
+sqlEngine = create_engine('mysql+pymysql://root:root2023@localhost:3306/football')
+
+tableName = "fourthdown"
+
+dbConnection = sqlEngine.connect()
+
+try:
+
+    frame = data.to_sql(tableName, dbConnection, if_exists='fail');
+
+except ValueError as vx:
+
+    print(vx)
+
+except Exception as ex:
+
+    print(ex)
+
+else:
+
+    print("Table %s created successfully." % tableName);
+
+finally:
+
+    dbConnection.close()
