@@ -5,7 +5,7 @@ import pandas as pd
 import math
 
 
-sqlEngine = create_engine('mysql+pymysql://root:root2023@localhost:3306/testdatabase')
+sqlEngine = create_engine('mysql+pymysql://root:root2023@localhost:3306/baseball')
 
 dbConnection = sqlEngine.connect()
 
