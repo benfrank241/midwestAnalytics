@@ -150,28 +150,28 @@ data["SO%"] = (data["SO"]) / (data["AB"])
 
 
 
-#upload to MySQL
+# # upload to MySQL
 # sqlEngine = create_engine('mysql+pymysql://root:root2023@localhost:3306/baseball')
-#
+
 # dbConnection = sqlEngine.connect()
-#
+
 # try:
-#
+
 #     frame = DataFrame.to_sql(tableName, dbConnection, if_exists='fail');
-#
+
 # except ValueError as vx:
-#
+
 #     print(vx)
-#
+
 # except Exception as ex:
-#
+
 #     print(ex)
-#
+
 # else:
-#
+
 #     print("Table %s created successfully." % tableName);
-#
+
 # finally:
-#
+
 #     dbConnection.close()
 

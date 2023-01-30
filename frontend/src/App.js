@@ -5,6 +5,7 @@ import Football from "./pages/Football"
 import { Route, Routes } from "react-router-dom"
 
 function App() {
+
   return (
     <>
       <Navbar />
