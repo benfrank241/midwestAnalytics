@@ -7,8 +7,8 @@ import pandas as pd
 import pymysql
 import numpy as np
 # Import data visualization modules
-import matplotlib as mpl
-import matplotlib.pyplot as plt
+# import matplotlib as mpl
+# import matplotlib.pyplot as plt
 
 context = ssl._create_unverified_context()
 
@@ -150,28 +150,28 @@ data["SO%"] = (data["SO"]) / (data["AB"])
 
 
 
-# # upload to MySQL
-# sqlEngine = create_engine('mysql+pymysql://root:root2023@localhost:3306/baseball')
+# upload to MySQL
+sqlEngine = create_engine('mysql+pymysql://root:root2023@localhost:3306/baseball')
 
-# dbConnection = sqlEngine.connect()
+dbConnection = sqlEngine.connect()
 
-# try:
+try:
 
-#     frame = DataFrame.to_sql(tableName, dbConnection, if_exists='fail');
+    frame = data.to_sql(tableName, dbConnection, if_exists='fail');
 
-# except ValueError as vx:
+except ValueError as vx:
 
-#     print(vx)
+    print(vx)
 
-# except Exception as ex:
+except Exception as ex:
 
-#     print(ex)
+    print(ex)
 
-# else:
+else:
 
-#     print("Table %s created successfully." % tableName);
+    print("Table %s created successfully." % tableName);
 
-# finally:
+finally:
 
-#     dbConnection.close()
+    dbConnection.close()
 

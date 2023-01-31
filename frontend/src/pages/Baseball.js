@@ -1,61 +1,76 @@
-import { useState } from'react';
-import axios from "axios"
-// import logo from './logo.svg';
-// import './App.css';
-
+import React, { useState, useEffect } from "react";
 
 function App() {
+  const [data, setData] = useState([]);
 
-    const [baseballData, setBaseballData] = useState(null)
-
-    function getData() {
-      axios({
-        method: "GET",
-        url:"/offense",
-      })
-      .then((response) => {
-        const res =response.data
-        setBaseballData(({
-          player: res.Player,
-          team: res.Team}))
-      }).catch((error) => {
-        if (error.response) {
-          console.log(error.response)
-          console.log(error.response.status)
-          console.log(error.response.headers)
-          }
-      })}
-
-
-
-
-
-      return (
-        <div className="App">
-          <header className="App-header">
-            <p>
-              Edit <code>src/App.js</code> and save to reload.
-            </p>
-            <a
-              className="App-link"
-              href="https://reactjs.org"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learn React
-            </a>
-    
-            {/* new line start*/}
-            <p>To get your profile details: </p><button onClick={getData}>Click me</button>
-            {baseballData && <div>
-                  <p>Profile name: {baseballData.player}</p>
-                  <p>About me: {baseballData.team}</p>
-                </div>
-            }
-             {/* end of new line */}
-          </header>
-        </div>
-      );
+  useEffect(() => {
+    async function fetchData() {
+      const response = await fetch("http://localhost:5000/data");
+      const json = await response.json();
+      console.log(json)
+      setData(json);
     }
-    
-    export default App;
+    fetchData();
+  }, []);
+
+  return (
+    <table>
+    <thead>
+    <tr>
+    <th>Rank</th>
+    <th>Player</th>
+    <th>Team</th>
+    <th>AVG</th>
+    <th>GP-GS</th>
+    <th>AB</th>
+    <th>R</th>
+    <th>H</th>
+    <th>1B</th>
+    <th>2B</th>
+    <th>3B</th>
+    <th>HR</th>
+    <th>RBI</th>
+    <th>TB</th>
+    <th>SLG%</th>
+    <th>BB</th>
+    <th>HBP</th>
+    <th>SO</th>
+    <th>GDP</th>
+    <th>OB%</th>
+    <th>SF</th>
+    <th>SH</th>
+    <th>SB-ATT</th>
+    </tr>
+    </thead>
+    <tbody>
+    {data.map((item, index) => (
+    <tr key={index}>
+    <td>{item[0]}</td>
+    <td>{item[1]}</td>
+    <td>{item[2]}</td>
+    <td>{item[3]}</td>
+    <td>{item[4]}</td>
+    <td>{item[5]}</td>
+    <td>{item[6]}</td>
+    <td>{item[7]}</td>
+    <td>{item[8]}</td>
+    <td>{item[9]}</td>
+    <td>{item[10]}</td>
+    <td>{item[11]}</td>
+    <td>{item[12]}</td>
+    <td>{item[13]}</td>
+    <td>{item[14]}</td>
+    <td>{item[15]}</td>
+    <td>{item[16]}</td>
+    <td>{item[17]}</td>
+    <td>{item[18]}</td>
+    <td>{item[19]}</td>
+    <td>{item[20]}</td>
+    </tr>
+    ))}
+    </tbody>
+    </table>
+    );
+}
+
+export default App;

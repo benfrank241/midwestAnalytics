@@ -1,29 +1,22 @@
-from flask import Flask, render_template, request
-from flask_mysqldb import MySQL
+from flask import Flask, jsonify, request
+import mysql.connector
+from flask_cors import CORS
+
 app = Flask(__name__)
+CORS(app)
 
+# Connect to the MySQL database
+cnx = mysql.connector.connect(user='root', password='root2023',
+                              host='localhost', database='baseball')
 
-app.config['MYSQL_HOST'] = 'localhost'
-app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = 'root2023'
-app.config['MYSQL_DB'] = 'MyDB'
+@app.route("/data", methods=["GET"])
+def get_data():
+    cursor = cnx.cursor()
+    query = "SELECT * FROM offense"
+    cursor.execute(query)
+    data = cursor.fetchall()
+    cursor.close()
+    return jsonify(data)
 
-mysql = MySQL(app)
-
-
-@app.route('/', methods=['GET', 'POST'])
-def index():
-    if request.method == "POST":
-        details = request.form
-        firstName = details['fname']
-        lastName = details['lname']
-        cur = mysql.connection.cursor()
-        cur.execute("INSERT INTO MyUsers(firstName, lastName) VALUES (%s, %s)", (firstName, lastName))
-        mysql.connection.commit()
-        cur.close()
-        return 'success'
-    return render_template('index.html')
-
-
-if __name__ == '__main__':
-    app.run()
+if __name__ == "__main__":
+    app.run(debug=True)

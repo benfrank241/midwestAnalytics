@@ -1,5 +1,6 @@
 #this file is able to read from the MySQL database
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, text
+from sqlalchemy import *
 import pymysql
 import pandas as pd
 import math
@@ -9,7 +10,9 @@ sqlEngine = create_engine('mysql+pymysql://root:root2023@localhost:3306/baseball
 
 dbConnection = sqlEngine.connect()
 
-frame = pd.read_sql("select * from baseball.offense", dbConnection);
+query = text("SELECT * from baseball.offense")
+
+frame = pd.read_sql(query, dbConnection);
 
 pd.set_option('display.expand_frame_repr', False)
 
@@ -54,7 +57,7 @@ frame["OPS+"] = round((100 * (frame["OPS"] / opsAvg) + (frame["SLG%"] / slgAvg) 
 frame["AVG+"] = round((100 * (frame["AVG"] / avgAvg) -1), 0)
 
 del frame["index"]
-# print(frame.head())
+print(frame.head())
 
 #WAR = (Batting Runs + Base Running Runs + Fielding Runs + Positional Adjustment + League Adjustment +Replacement Runs) / (Runs Per Win)
 #https://library.fangraphs.com/war/war-position-players/
