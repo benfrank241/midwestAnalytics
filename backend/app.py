@@ -9,7 +9,7 @@ CORS(app)
 cnx = mysql.connector.connect(user='root', password='root2023',
                               host='34.29.90.189', database='baseball')
 
-@app.route("/", methods=["GET"])
+@app.route("/data", methods=["GET"])
 def get_data():
     cursor = cnx.cursor()
     query = "SHOW COLUMNS FROM baseball.offense"
