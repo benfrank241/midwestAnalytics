@@ -7,15 +7,16 @@ CORS(app)
 
 # Connect to the MySQL database
 cnx = mysql.connector.connect(user='root', password='root2023',
-                              host='localhost', database='baseball')
+                              host='34.29.90.189', database='baseball')
 
-@app.route("/data", methods=["GET"])
+@app.route("/", methods=["GET"])
 def get_data():
     cursor = cnx.cursor()
-    query = "SELECT * FROM offense"
+    query = "SHOW COLUMNS FROM baseball.offense"
     cursor.execute(query)
     data = cursor.fetchall()
     cursor.close()
+    print(jsonify(data))
     return jsonify(data)
 
 if __name__ == "__main__":
