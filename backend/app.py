@@ -23,10 +23,10 @@ def connect_with_connector() -> sqlalchemy.engine.base.Engine:
     # Cloud Secret Manager (https://cloud.google.com/secret-manager) to help
     # keep secrets safe.
 
-    instance_connection_name = os.environ["sonic-solstice-376503:us-central1:analytics"]  # e.g. 'project:region:instance'
-    db_user = os.environ.get("benbart02", "")  # e.g. 'my-db-user'
-    db_pass = os.environ["root2023"]  # e.g. 'my-db-password'
-    db_name = os.environ["baseball"]  # e.g. 'my-database'
+    # instance_connection_name = os.environ["sonic-solstice-376503:us-central1:analytics"]  # e.g. 'project:region:instance'
+    # db_user = os.environ.get("benbart02", "")  # e.g. 'my-db-user'
+    # db_pass = os.environ["root2023"]  # e.g. 'my-db-password'
+    # db_name = os.environ["baseball"]  # e.g. 'my-database'
 
     ip_type = IPTypes.PRIVATE if os.environ.get("PRIVATE_IP") else IPTypes.PUBLIC
 
@@ -34,11 +34,11 @@ def connect_with_connector() -> sqlalchemy.engine.base.Engine:
 
     def getconn() -> pymysql.connections.Connection:
         conn: pymysql.connections.Connection = connector.connect(
-            instance_connection_name,
+            "sonic-solstice-376503:us-central1:analytics",
             "pymysql",
-            user=db_user,
-            password=db_pass,
-            db=db_name,
+            user="benbart02",
+            password="root2023",
+            db="baseball",
         )
         return conn
 
@@ -47,9 +47,14 @@ def connect_with_connector() -> sqlalchemy.engine.base.Engine:
         creator=getconn,
     )
 
-    print("success")
+    with pool.connect() as db_conn:
 
-    return pool
+        # query database
+        result = db_conn.execute("SELECT * from my_table").fetchall()
+
+        # Do something with the results
+        for row in result:
+            print(row)
 
 
 
