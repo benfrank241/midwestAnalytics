@@ -55,7 +55,6 @@ pyrsistent==0.19.3
 python-dateutil==2.8.2
 python-tds==1.11.0
 pytz==2022.7.1
-pywin32==305
 pyzmq==25.0.0
 requests==2.21.0
 rsa==4.9
