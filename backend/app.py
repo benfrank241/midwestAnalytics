@@ -12,26 +12,11 @@ creds = Credentials.from_authorized_user_file("C:/Users/benja/AppData/Roaming/gc
 app = Flask(__name__)
 CORS(app)
 
+# Connect to the MySQL database
+cnx = mysql.connector.connect(user='root', password='root2023',
+                              host='34.29.90.189', database='baseball')
 
-def getconn():
-    with Connector() as connector:
-        conn = connector.connect(
-            "sonic-solstice-376503:us-central1:analytics",
-            "pymysql",
-            user='root',
-            password='root2023',
-            database='baseball',
-            credentials=creds
-            )
-        return conn
-    
-pool = sqlalchemy.create_engine(
-"mysql+pymysql://",
-creator=getconn,
-)
-
-
-@app.route("/data", methods=["GET"])
+@app.route("/", methods=["GET"])
 def get_data():
 
     with pool.connect() as cursor:
