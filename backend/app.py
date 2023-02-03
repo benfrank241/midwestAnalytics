@@ -1,9 +1,6 @@
 from flask import Flask, jsonify, request
 import mysql.connector
 from flask_cors import CORS
-# from google.cloud.sql.connector import Connector
-# import sqlalchemy
-
 from google.oauth2.credentials import Credentials
 
 creds = Credentials.from_authorized_user_file("C:/Users/benja/AppData/Roaming/gcloud/application_default_credentials.json")
