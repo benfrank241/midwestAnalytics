@@ -1,8 +1,8 @@
 from flask import Flask, jsonify, request
 import mysql.connector
 from flask_cors import CORS
-from google.cloud.sql.connector import Connector
-import sqlalchemy
+# from google.cloud.sql.connector import Connector
+# import sqlalchemy
 
 from google.oauth2.credentials import Credentials
 
@@ -16,17 +16,16 @@ CORS(app)
 cnx = mysql.connector.connect(user='root', password='root2023',
                               host='34.29.90.189', database='baseball')
 
-@app.route("/", methods=["GET"])
+@app.route("/data", methods=["GET"])
 def get_data():
 
-    with pool.connect() as cursor:
-        # cursor = cnx.cursor()
-        query = "SELECT * from baseball.offense"
-        cursor.execute(query)
-        data = cursor.fetchall()
-        cursor.close()
-        print(jsonify(data))
-        return jsonify(data)
+    cursor = cnx.cursor()
+    query = "SELECT * from baseball.offense"
+    cursor.execute(query)
+    data = cursor.fetchall()
+    cursor.close()
+    print(jsonify(data))
+    return jsonify(data)
 
 @app.route("/hello")
 def hello():
