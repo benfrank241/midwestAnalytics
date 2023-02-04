@@ -1,0 +1,5 @@
+env_variables:
+  CLOUD_SQL_USERNAME = benbart02
+  CLOUD_SQL_PASSWORD = root2023
+  CLOUD_SQL_DATABASE_NAME = analytics
+  CLOUD_SQL_CONNECTION_NAME = sonic-solstice-376503:us-central1:analytics
