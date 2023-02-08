@@ -72,7 +72,7 @@ frame=frame.drop(frame.index[0])
 print(frame.head())
 
 
-sqlEngine = create_engine('mysql+pymysql://ben:M$De3qWNdjh#*9jhRbaQL4aMXnhj@34.29.90.189/analysis')
+sqlEngine = create_engine('mysql+pymysql://ben:p@34.29.90.189/analysis')
 dbConnection = sqlEngine.connect()
 
 try:
@@ -94,3 +94,5 @@ else:
 finally:
 
     dbConnection.close()
+
+#todo: upload these stats to google mysql, get backend to call the right stats

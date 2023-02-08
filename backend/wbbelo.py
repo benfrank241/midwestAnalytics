@@ -6,6 +6,20 @@ import pandas as pd
 import math
 
 
+
+#ELO Model
+def calculate(winner, wScore, loser, lScore):
+    print("Winner:", winner)
+    print("Loser:", loser)
+    print("Score diff", int(wScore) - int(lScore))
+
+
+
+
+
+
+
+#Data Scraping and cleaning
 context = ssl._create_unverified_context()
 
 url = 'https://static.midwestconference.org/custompages/Statistics/2021-22/wbb/HTML/CONFSTAT.HTM'
@@ -22,9 +36,8 @@ data = data.split("\n")
 
 data = data[33:]
 
-# print(data[0:10])
 
-for i, line in enumerate(data):
+for i in range(len(data)):
     data[i] = data[i].replace(u'\xa0', u' ')
     data[i] = data[i].replace("Box score ", '')
     data[i] = data[i].replace("  ", '')
@@ -34,12 +47,6 @@ while("" in data):
     data.remove("")
 
 # print(data[0:100])
-
-def calculate(winner, wScore, loser, lScore):
-    print("Winner:", winner)
-    print("Loser:", loser)
-    print("Score diff", int(wScore) - int(lScore))
-
 games = []
 
 for i in range(2,383,3):
@@ -47,7 +54,7 @@ for i in range(2,383,3):
 
 # print(games)
 
-for i, line in enumerate(games):
+for line in games:
     line = line.split(",")
 
     wName = line[0].rstrip('0123456789')
@@ -59,6 +66,9 @@ for i, line in enumerate(games):
     # print(wScore)
     # print(lName)
     # print(lScore)
+
+    #todo: set up the elo system https://www.geeksforgeeks.org/elo-rating-algorithm/
+    
 
     
 
