@@ -4,9 +4,12 @@ from sqlalchemy import *
 import pymysql
 import pandas as pd
 import math
+import os
+
+p = os.environ.get('CLOUD_SQL_PASSWORD')
 
 
-sqlEngine = create_engine('mysql+pymysql://root:root2023@localhost:3306/baseball')
+sqlEngine = create_engine('mysql+pymysql://ben:M$De3qWNdjh#*9jhRbaQL4aMXnhj@34.29.90.189/baseball')
 
 dbConnection = sqlEngine.connect()
 
@@ -51,14 +54,43 @@ frame["wOBA"] = round(((frame["BB"] * 0.69) + (frame["HBP"] * 0.722) + (frame["1
 opsAvg = frame["OPS"].mean()
 slgAvg = frame["SLG%"].mean()
 avgAvg = frame["AVG"].mean()
+wOBAAvg = frame["wOBA"].median()
 #ops+
 frame["OPS+"] = round((100 * (frame["OPS"] / opsAvg) + (frame["SLG%"] / slgAvg) - 1), 0)
 #avg+
 frame["AVG+"] = round((100 * (frame["AVG"] / avgAvg) -1), 0)
 
 del frame["index"]
-print(frame.head())
+
 
 #WAR = (Batting Runs + Base Running Runs + Fielding Runs + Positional Adjustment + League Adjustment +Replacement Runs) / (Runs Per Win)
 #https://library.fangraphs.com/war/war-position-players/
 
+frame["Rating"] = ((frame["wOBA"] - wOBAAvg)/1.2 + (frame["OPS"] - opsAvg)/1.2)
+frame=frame.drop(frame.index[0])
+# frame.drop([0])
+print(frame.head())
+
+
+sqlEngine = create_engine('mysql+pymysql://ben:M$De3qWNdjh#*9jhRbaQL4aMXnhj@34.29.90.189/analysis')
+dbConnection = sqlEngine.connect()
+
+try:
+
+    frame = frame.to_sql("baseballoffense", dbConnection, if_exists='fail');
+
+except ValueError as vx:
+
+    print(vx)
+
+except Exception as ex:
+
+    print(ex)
+
+else:
+
+    print("Table %s created successfully." % "offenseAnalytics");
+
+finally:
+
+    dbConnection.close()
