@@ -9,7 +9,7 @@ import os
 p = os.environ.get('CLOUD_SQL_PASSWORD')
 
 
-sqlEngine = create_engine('mysql+pymysql://ben:M$De3qWNdjh#*9jhRbaQL4aMXnhj@34.29.90.189/baseball')
+sqlEngine = create_engine('mysql+pymysql://ben:p@34.29.90.189/baseball')
 
 dbConnection = sqlEngine.connect()
 
