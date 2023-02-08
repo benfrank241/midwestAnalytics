@@ -129,19 +129,11 @@ for i in range(len(d_stats)):
             d_stats[i][1] = d_stats[i][1].replace('.','')
 
 #Create DataFrame from our scraped data
-tableName = "defense"
+tableName = "test"
 # print(o_column_names)
 data = pd.DataFrame(d_stats, columns=d_column_names)
 
-# cata = ['AVG', 'AB', 'R', 'H', '2B', '3B', 'HR', 'RBI', 'TB', 'SLG%', 'BB', 'HBP', 'SO', 'GDP', 'OB%', 'SF', 'SH']
-
-# #change data types so we can make calculations
-# for i in cata:
-#     data[i] = pd.to_numeric(data[i])
-
-# data["SO%"] = (data["SO"]) / (data["AB"])
-# print(data.head())
-
+print(data.dtypes)
 print(data)
 
 
@@ -151,7 +143,7 @@ print(data)
 
 
 # upload to MySQL
-sqlEngine = create_engine('mysql+pymysql://root:root2023@34.29.90.189/baseball')
+sqlEngine = create_engine('mysql+pymysql://root:root2023@localhost:3306/baseball')
 
 dbConnection = sqlEngine.connect()
 

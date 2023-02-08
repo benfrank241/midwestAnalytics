@@ -14,7 +14,7 @@ def conn():
     cnx = mysql.connector.connect( host="34.29.90.189", user="ben", password=p, database="baseball" )
 
     cursor = cnx.cursor()
-    cursor.execute("SELECT * FROM baseball.offense")
+    cursor.execute("SELECT * FROM analysis.nein")
 
     data = cursor.fetchall()
     return jsonify(data)

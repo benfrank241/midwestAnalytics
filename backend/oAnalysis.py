@@ -3,6 +3,7 @@ from sqlalchemy import create_engine, text
 from sqlalchemy import *
 import pymysql
 import pandas as pd
+import numpy as np
 import math
 import os
 
@@ -17,7 +18,7 @@ query = text("SELECT * from baseball.offense")
 
 frame = pd.read_sql(query, dbConnection);
 
-pd.set_option('display.expand_frame_repr', False)
+# pd.set_option('display.expand_frame_repr', False)
 
 # print(frame)
 
@@ -60,7 +61,7 @@ frame["OPS+"] = round((100 * (frame["OPS"] / opsAvg) + (frame["SLG%"] / slgAvg) 
 #avg+
 frame["AVG+"] = round((100 * (frame["AVG"] / avgAvg) -1), 0)
 
-del frame["index"]
+# del frame["index"]
 
 
 #WAR = (Batting Runs + Base Running Runs + Fielding Runs + Positional Adjustment + League Adjustment +Replacement Runs) / (Runs Per Win)
@@ -69,7 +70,25 @@ del frame["index"]
 frame["Rating"] = ((frame["wOBA"] - wOBAAvg)/1.2 + (frame["OPS"] - opsAvg)/1.2)
 frame=frame.drop(frame.index[0])
 # frame.drop([0])
-print(frame.head())
+# print(frame.head())
+frame.replace([np.inf, -np.inf], np.nan, inplace=True)
+frame.dropna(inplace=True)
+frame.rename(columns={'GP-GS': 'GP_GS', 'SB-ATT': 'SB_ATT'}, inplace=True)
+
+
+
+cata = ['Player', 'Team', 'GP_GS', 'AVG', 'AB', 'R', 'H','1B', '2B', '3B', 'HR', 'RBI', 'TB', 'SLG%', 'BB', 'HBP', 'SO', 'GDP', 'OB%', 'SF', 'SH', 'SB_ATT', 'SO%', 'BB%', 'BB/K', 'ISO', 'BABIP', 'RC', 'wOBA', 'OPS', 'OPS+', 'AVG+', 'Rating']
+
+#change data types so we can make calculations
+for i in cata:
+    frame[i] = frame[i].astype(object)
+
+data = pd.DataFrame(frame)
+
+# print(data.head())
+# print(data.dtypes)
+
+print(data.to_csv(index=False))
 
 
 sqlEngine = create_engine('mysql+pymysql://ben:p@34.29.90.189/analysis')
@@ -77,7 +96,7 @@ dbConnection = sqlEngine.connect()
 
 try:
 
-    frame = frame.to_sql("baseballoffense", dbConnection, if_exists='fail');
+    frame = data.to_sql("nein", dbConnection, if_exists='fail')
 
 except ValueError as vx:
 
@@ -89,10 +108,11 @@ except Exception as ex:
 
 else:
 
-    print("Table %s created successfully." % "offenseAnalytics");
+    print("Table 'nein' created successfully.")
 
 finally:
 
     dbConnection.close()
 
-#todo: upload these stats to google mysql, get backend to call the right stats
+
+# todo: upload these stats to google mysql, get backend to call the right stats
