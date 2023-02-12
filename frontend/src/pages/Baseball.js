@@ -40,12 +40,24 @@ function App() {
     <th>SF</th>
     <th>SH</th>
     <th>SB-ATT</th>
+    <th>SO%</th>
+    <th>BB%</th>
+    <th>BB/K</th>
+    <th>OPS</th>
+    <th>ISO</th>
+    <th>BABIP</th>
+    <th>RC</th>
+    <th>wOBA</th>
+    <th>OPS+</th>
+    <th>AVG+</th>
+    <th>bRating</th>
     </tr>
     </thead>
     <tbody>
-    {data.map((item, index) => (
+    {data.map((item, index) => {
+      if (index == 0 || index > 184) return;
+      return (
     <tr key={index}>
-    <td>{item[0]}</td>
     <td>{item[1]}</td>
     <td>{item[2]}</td>
     <td>{item[3]}</td>
@@ -66,8 +78,24 @@ function App() {
     <td>{item[18]}</td>
     <td>{item[19]}</td>
     <td>{item[20]}</td>
+    <td>{item[21]}</td>
+    <td>{item[22]}</td>
+    <td>{item[23]}</td>
+    <td>{item[24]}</td>
+    <td>{item[25]}</td>
+    <td>{item[26]}</td>
+    <td>{item[27]}</td>
+    <td>{parseFloat(item[28]).toFixed(3)}</td>
+    <td>{item[29]}</td>
+    <td>{item[30]}</td>
+    <td>{item[31]}</td>
+    <td>{item[32]}</td>
+    <td>{item[33]}</td>
+    {/* <td>{item[34]}</td> */}
+    <td>{parseFloat(item[34]).toFixed(3)}</td>
+
     </tr>
-    ))}
+    )})}
     </tbody>
     </table>
     );
