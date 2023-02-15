@@ -211,28 +211,28 @@ data = pd.DataFrame(fourth_data, columns=cata)
 
 
 # upload to MySQL
-sqlEngine = create_engine('mysql+pymysql://root:root2023@localhost:3306/football')
+# sqlEngine = create_engine('mysql+pymysql://root:root2023@localhost:3306/football')
 
-tableName = "fourthdown"
+# tableName = "fourthdown"
 
-dbConnection = sqlEngine.connect()
+# dbConnection = sqlEngine.connect()
 
-try:
+# try:
 
-    frame = data.to_sql(tableName, dbConnection, if_exists='fail');
+#     frame = data.to_sql(tableName, dbConnection, if_exists='fail');
 
-except ValueError as vx:
+# except ValueError as vx:
 
-    print(vx)
+#     print(vx)
 
-except Exception as ex:
+# except Exception as ex:
 
-    print(ex)
+#     print(ex)
 
-else:
+# else:
 
-    print("Table %s created successfully." % tableName);
+#     print("Table %s created successfully." % tableName);
 
-finally:
+# finally:
 
-    dbConnection.close()
+#     dbConnection.close()
