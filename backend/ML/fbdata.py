@@ -7,8 +7,6 @@ import pandas as pd
 import pymysql
 import numpy as np
 # Import data visualization modules
-import matplotlib as mpl
-import matplotlib.pyplot as plt
 
 
 #Data to collect

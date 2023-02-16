@@ -36,17 +36,17 @@ data = data.drop('Distance_3chars', axis=1)
 data = data.drop('tf', axis=1)
 
 
-
-# print(data.head(10))
-print(data.dtypes)
-input("p")
-
 #TODO: Map team to a int so it can be used in the model, Result has already done this?
 
 
-
+#This code uses LabelEncoder to convert the 'Result' and 'Team' column in the 'data' dataframe into numerical values.
 le = LabelEncoder()
 data['Result'] = le.fit_transform(data['Result'])
+data['Team'] = le.fit_transform(data['Result'])
+
+# print(data.head(10))
+# print(data.dtypes)
+# input("p")
 
 train_data, test_data = train_test_split(data, test_size=0.2)
 
@@ -97,6 +97,8 @@ for epoch in range(num_epochs):
     for i, data in enumerate(train_dataloader, 0):
         inputs, labels = data
 
+        labels = labels.reshape(-1, 1)
+
         # Zero the parameter gradients
         optimizer.zero_grad()
 
@@ -126,6 +128,8 @@ with torch.no_grad():
         correct += (predicted == labels).sum().item()
 
 print('Accuracy on test set: %d %%' % (100 * correct / total))
+
+
 
 
 
