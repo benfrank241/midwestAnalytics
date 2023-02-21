@@ -181,8 +181,53 @@ for line in currRes:
     EloRating2(wName,lName,50,10)
     # diff = int(wScore) - int(lScore)
 
-print("2021-22 Woman's basketball end of season ELO: ", teams)    
-print("2022-23 Woman's basketball current ELO: ", teams2)
+currTeams = {key : round(teams2[key], 0) for key in teams2}
+prevTeams = {key : round(teams[key], 0) for key in teams}
+
+for i in currTeams:
+    currTeams[i] = int(currTeams[i])
+
+for i in prevTeams:
+    prevTeams[i] = int(prevTeams[i])
+
+sorted_currTeams = sorted(currTeams.items(), key=lambda x:x[1], reverse=True)
+sorted_prevTeams = sorted(prevTeams.items(), key=lambda x:x[1], reverse=True)
+
+no = ['Ripon']
+
+no_zero_colleges = set(['RiponCollege', 'KnoxCollege', 'CornellCollege', 'IllinoisCollege'])
+
+add_values = {
+    'RiponCollege': 0.70,
+    'KnoxCollege': 0.77,
+    'IllinoisCollege': 0.30,
+    'CornellCollege': 0.23
+}
+add_values2 = {
+    'RiponCollege': 0.39,
+    'KnoxCollege': 0.42,
+    'IllinoisCollege': 0.19,
+    'CornellCollege': 0.04
+}
+
+data = []
+for i, (college, count) in enumerate(sorted_currTeams):
+    if college in add_values:
+        data.append((i+1, college, count, add_values[college], add_values2[college]))
+    else:
+        data.append((i+1, college, count, 0, 0))
+
+lastYear = []
+for i, (college, count) in enumerate(sorted_prevTeams):
+    if college in no:
+        lastYear.append((i+1, college, count, 0, 100))
+    else:
+        lastYear.append((i+1, college, count, 0, 0))
+
+
+print("2021-22 Woman's basketball end of season information for frontend: (Rank, Team, Rating, percent making finals, percent win finals) \n", lastYear) 
+print("\n")   
+print("2022-23 Woman's basketball current information for frontend: (Rank, Team, Rating, percent making finals, percent win finals)", data)
     
 
     

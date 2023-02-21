@@ -1047,3 +1047,139 @@ Illinois College
 74
 Final
 Jacksonville, IL	Box Score
+Grinnell College
+Grinnell College
+43
+Illinois College
+Illinois College
+54
+Final
+Jacksonville, IL (Conf.)	Box Score
+Knox College
+Knox College
+45
+Monmouth College
+Monmouth College
+38
+Final
+Monmouth, IL (Conf.)	Box Score
+Lake Forest College
+Lake Forest College
+59
+Lawrence University
+Lawrence University
+47
+Final
+Appleton, WI (Conf.)	Box Score
+Friday, February 10, 2023 Women's Basketball
+Away	Home	Result	Location	Links
+Cornell College
+Cornell College
+38
+Ripon College
+Ripon College
+69
+Final
+Ripon, WI (Conf.)	Box Score
+Saturday, February 11, 2023 Women's Basketball
+Away	Home	Result	Location	Links
+Cornell College
+Cornell College
+72
+Lawrence University
+Lawrence University
+60
+Final
+Appleton, WI (Conf.)	Box Score
+Beloit College
+Beloit College
+57
+Knox College
+Knox College
+71
+Final
+Galesburg, IL (Conf.)	Box Score
+Monmouth College
+Monmouth College
+49
+Ripon College
+Ripon College
+69
+Final
+Ripon, WI (Conf.)	Box Score
+Illinois College
+Illinois College
+77
+Lake Forest College
+Lake Forest College
+88
+Final
+Lake Forest, IL (Conf.)	Box Score
+Tuesday, February 14, 2023 Women's Basketball
+Away	Home	Result	Location	Links
+Illinois College
+Illinois College
+62
+Knox College
+Knox College
+63
+Final
+Galesburg, IL (Conf.)	Box Score
+Ripon College
+Ripon College
+78
+Lake Forest College
+Lake Forest College
+76
+Final
+Lake Forest, IL (Conf.)	Box Score
+Beloit College
+Beloit College
+68
+Grinnell College
+Grinnell College
+80
+Final
+Grinnell, IA (Conf.)	Box Score
+Monmouth College
+Monmouth College
+55
+Cornell College
+Cornell College
+66
+Final
+Mount Vernon, IA (Conf.)	Box Score
+Saturday, February 18, 2023 Women's Basketball
+Away	Home	Result	Location	Links
+Cornell College
+Cornell College
+57
+Beloit College
+Beloit College
+59
+Final
+Beloit, WI (Conf.)	Box Score
+Knox College
+Knox College
+54
+Ripon College
+Ripon College
+64
+Final
+Ripon, WI (Conf.)	Box Score
+Lawrence University
+Lawrence University
+36
+Illinois College
+Illinois College
+69
+Final
+Jacksonville, IL (Conf.)	Box Score
+Lake Forest College
+Lake Forest College
+75
+Grinnell College
+Grinnell College
+78
+Final
+Grinnell, IA (Conf.)	Box Score

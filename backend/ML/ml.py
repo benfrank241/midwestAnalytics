@@ -37,14 +37,35 @@ data = data.drop('tf', axis=1)
 
 
 #TODO: Map team to a int so it can be used in the model, Result has already done this?
+results_map = {
+    0: "Failed",
+    1: "FIELD GOAL GOOD",
+    2: "FIELD GOAL NO GOOD",
+    3: "PUNT",
+    4: "SUCCESS",
+    5: "TD"
+    }
+team_map = {
+    0: "Beloit",
+    1: "Chicago",
+    2: "Cornell",
+    3: "Grinell",
+    4: "Illinois",
+    5: "Lake Forest",
+    6: "Knox",
+    7: "Lawrence",
+    8: "Monmouth",
+    9: "Ripon",
+}
 
 
 #This code uses LabelEncoder to convert the 'Result' and 'Team' column in the 'data' dataframe into numerical values.
 le = LabelEncoder()
 data['Result'] = le.fit_transform(data['Result'])
-data['Team'] = le.fit_transform(data['Result'])
+data['Team'] = le.fit_transform(data['Team'])
 
-# print(data.head(10))
+
+print(data.head(10))
 # print(data.dtypes)
 # input("p")
 
@@ -115,6 +136,7 @@ for epoch in range(num_epochs):
                   (epoch + 1, i + 1, running_loss / 100))
             running_loss = 0.0
 
+
 # Evaluation
 model.eval()
 correct = 0
@@ -126,6 +148,9 @@ with torch.no_grad():
         predicted = (outputs >= 0.5).float()
         total += labels.size(0)
         correct += (predicted == labels).sum().item()
+        print(f"Batch {i+1}: Predicted labels = {predicted}, Ground truth labels = {labels}")
+
+
 
 print('Accuracy on test set: %d %%' % (100 * correct / total))
 

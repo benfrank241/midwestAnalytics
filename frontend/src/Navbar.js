@@ -8,6 +8,7 @@ export default function Navbar() {
         <ul>
             <CustomLink to = "/baseball">Baseball</CustomLink>
             <CustomLink to = "/football">Football</CustomLink>
+            <CustomLink to = "/basketball">Basketball</CustomLink>
         </ul>
    </nav>
    )
