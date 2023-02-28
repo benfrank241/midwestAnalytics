@@ -14,6 +14,9 @@ function App() {
   }, []);
 
   return (
+    <div>
+      <h1>2022 Midwest Conference Advanced Stats - Hitting</h1>
+    
     <table>
     <thead>
     <tr>
@@ -54,6 +57,7 @@ function App() {
     </tr>
     </thead>
     <tbody>
+   
     {data.map((item, index) => {
       if (index == 0 || index > 184) return;
       return (
@@ -98,6 +102,7 @@ function App() {
     )})}
     </tbody>
     </table>
+    </div>
     );
 }
 
