@@ -11,14 +11,14 @@ const data = [
 ];
 
 const data2 = [
-  { rank: 1, team: 'Ripon', eloRating: 1204, winChampionshipPct: 100, makeChampionshipPct: 0 },
-  { rank: 2, team: 'Monmouth', eloRating: 1080, winChampionshipPct: 0, makeChampionshipPct: 0 },
-  { rank: 3, team: 'Grinnell', eloRating: 1026, winChampionshipPct: 0, makeChampionshipPct: 0 },
-  { rank: 4, team: 'Knox', eloRating: 988, winChampionshipPct: 0, makeChampionshipPct: 0 },
-  { rank: 5, team: 'IllinoisCollege', eloRating: 987, winChampionshipPct: 0, makeChampionshipPct: 0 },
-  { rank: 6, team: 'Lawrence', eloRating: 984, winChampionshipPct: 0, makeChampionshipPct: 0 },
-  { rank: 7, team: 'Cornell', eloRating: 960, winChampionshipPct: 0, makeChampionshipPct: 0 },
-  { rank: 8, team: 'Beloit', eloRating: 771, winChampionshipPct: 0, makeChampionshipPct: 0 },
+  { rank: 1, team: 'Ripon College', eloRating: 1204, winChampionshipPct: 100, makeChampionshipPct: 0 },
+  { rank: 2, team: 'Monmouth College', eloRating: 1080, winChampionshipPct: 0, makeChampionshipPct: 0 },
+  { rank: 3, team: 'Grinnell College', eloRating: 1026, winChampionshipPct: 0, makeChampionshipPct: 0 },
+  { rank: 4, team: 'Knox College', eloRating: 988, winChampionshipPct: 0, makeChampionshipPct: 0 },
+  { rank: 5, team: 'Illinois College', eloRating: 987, winChampionshipPct: 0, makeChampionshipPct: 0 },
+  { rank: 6, team: 'Lawrence University', eloRating: 984, winChampionshipPct: 0, makeChampionshipPct: 0 },
+  { rank: 7, team: 'Cornell College', eloRating: 960, winChampionshipPct: 0, makeChampionshipPct: 0 },
+  { rank: 8, team: 'Beloit College', eloRating: 771, winChampionshipPct: 0, makeChampionshipPct: 0 },
 ];
 
 export { data, data2 };

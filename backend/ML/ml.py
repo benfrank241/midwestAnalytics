@@ -38,6 +38,10 @@ data = data.drop('tf', axis=1)
 
 #TODO: Map team to a int so it can be used in the model, Result has already done this?
 results_map = {
+    0: "Don't go for it",
+    1: "Go for it",
+    }
+results_map2 = {
     0: "Failed",
     1: "FIELD GOAL GOOD",
     2: "FIELD GOAL NO GOOD",
@@ -65,7 +69,7 @@ data['Result'] = le.fit_transform(data['Result'])
 data['Team'] = le.fit_transform(data['Team'])
 
 
-print(data.head(10))
+# print(data.head(10))
 # print(data.dtypes)
 # input("p")
 
@@ -148,11 +152,25 @@ with torch.no_grad():
         predicted = (outputs >= 0.5).float()
         total += labels.size(0)
         correct += (predicted == labels).sum().item()
-        print(f"Batch {i+1}: Predicted labels = {predicted}, Ground truth labels = {labels}")
+        # print(f"Batch {i+1}: Predicted labels = {predicted}, Ground truth labels = {labels}")
 
 
 
 print('Accuracy on test set: %d %%' % (100 * correct / total))
+
+# create a new sample with YardsToGo=10, Yards=5, and FieldPos=50
+new_sample = torch.tensor([100, 50, 50], dtype=torch.float)
+
+# pass the sample through the model to get the predicted outcome
+model.eval()
+with torch.no_grad():
+    output = model(new_sample)
+    predicted = (output >= 0.5).float()
+    result = results_map[int(predicted)]
+
+# print the predicted outcome
+print(result)
+
 
 
 

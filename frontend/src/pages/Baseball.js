@@ -18,7 +18,7 @@ function App() {
       <h1>2022 Midwest Conference Advanced Stats - Hitting</h1>
     
     <table>
-    <thead>
+    <thead style={{ position: "sticky", top: 0}}>
     <tr>
     <th>Rank</th>
     <th>Player</th>
